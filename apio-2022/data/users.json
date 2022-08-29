@@ -1,0 +1,4497 @@
+{
+	"isr008": {
+		"f_name": "Yuval Vaknin",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"kgz015": {
+		"f_name": "Sharshenaliev Nazar ",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"uzb009": {
+		"f_name": "Olimjonov Nozimjon",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"kgz026": {
+		"f_name": "Elnurken Abdigaparov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"rus020": {
+		"f_name": "Aleksander Nekrasov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"isr007": {
+		"f_name": "Shir Ariel",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"chn022": {
+		"f_name": "Jingyi Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"jor008": {
+		"f_name": "Raed Ibrahim Naseer",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"phl032": {
+		"f_name": "Clyde Lawrence Borrega",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"ind050": {
+		"f_name": "Neelabh Priyam Jha",
+		"l_name": "",
+		"team": "IND"
+	},
+	"irn020": {
+		"f_name": "Amir Hossein Vahidi Tabar",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"egy014": {
+		"f_name": "Ahmad Said Moursi",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"jpn004": {
+		"f_name": "Hikaru Ichiki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"tkm020": {
+		"f_name": "Abray Orazberdiyev",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"chn059": {
+		"f_name": "Yiming Xiong",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"irn018": {
+		"f_name": "Sadegh Samadi",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"kor033": {
+		"f_name": "Hanwon Choi",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"isr022": {
+		"f_name": "Assaf Yacouel",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"aus003": {
+		"f_name": "Arthur Sun",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"mys007": {
+		"f_name": "Vee Hua Jun",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"ind002": {
+		"f_name": "Adhish Kancharla",
+		"l_name": "",
+		"team": "IND"
+	},
+	"mys027": {
+		"f_name": "Chew Shao Qian",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"sau001": {
+		"f_name": "Abdulaziz Ahmad Alshibli",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"mac033": {
+		"f_name": "Kuok Wai U",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"phl016": {
+		"f_name": "John Lloyd T. Allas",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"ind046": {
+		"f_name": "Nameet Mishraa",
+		"l_name": "",
+		"team": "IND"
+	},
+	"bgd002": {
+		"f_name": "Farhan Ahmad",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"chn006": {
+		"f_name": "Chang Yu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"mac021": {
+		"f_name": "Tin Iao Wong",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"vnm003": {
+		"f_name": "Tran Xuan Bach",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"syr001": {
+		"f_name": "Mohammad Wael Zaiback",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"kgz028": {
+		"f_name": "Tengiz Dzhamalov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"twn002": {
+		"f_name": "Bo-Ye Wu",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"irn014": {
+		"f_name": "Sepehr Ramezani",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"jpn053": {
+		"f_name": "Kohei Yamashita",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"phl029": {
+		"f_name": "John Angelo Oraa Oringo",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"syr002": {
+		"f_name": "Hadi Suleiman",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"kgz022": {
+		"f_name": "Baytoro Mairambekov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"mac006": {
+		"f_name": "Zhanlin Chen",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"tha018": {
+		"f_name": "Krittawee​ Chaiprasertsud​",
+		"l_name": "",
+		"team": "THA"
+	},
+	"rus017": {
+		"f_name": "Ivan Machugovskiy",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"mys021": {
+		"f_name": "Lim Jia Sheng",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"arm012": {
+		"f_name": "Tsovak Yegoryan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"phl013": {
+		"f_name": "Han Na Doria Park",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"geo022": {
+		"f_name": "Demetre Kokhreidze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"twn007": {
+		"f_name": "Elliot En-Yi Liu",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"aze018": {
+		"f_name": "Shahin Alekberli",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"jpn015": {
+		"f_name": "Asahi Kikuchi",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"jpn011": {
+		"f_name": "Katayama Yuta",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"jpn023": {
+		"f_name": "Kengo Sasaki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"ind020": {
+		"f_name": "Ritul Kumar Singh",
+		"l_name": "",
+		"team": "IND"
+	},
+	"mac008": {
+		"f_name": "Mingxin Lin",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"ind054": {
+		"f_name": "Shrawan Bhatt",
+		"l_name": "",
+		"team": "IND"
+	},
+	"tha003": {
+		"f_name": "Pitakpong Kapincharanont",
+		"l_name": "",
+		"team": "THA"
+	},
+	"bgd011": {
+		"f_name": "Md. Abdullah",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"egy010": {
+		"f_name": "Mohamed Ramy Mohamed Elnakeeb",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"phl011": {
+		"f_name": "Zyann Rubi D. Omadlao",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"isr017": {
+		"f_name": "Ori Frankel",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"egy016": {
+		"f_name": "Mina Ragy Fouad",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"mac041": {
+		"f_name": "Ioi Hei Lam",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"pse001": {
+		"f_name": "Nicola Abusaad",
+		"l_name": "",
+		"team": "PSE"
+	},
+	"rus007": {
+		"f_name": "Vladimir Gerasikov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"rus002": {
+		"f_name": "Aleksandr Babin",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"kor007": {
+		"f_name": "Sanghoon Park",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"kor017": {
+		"f_name": "Jeonghyun Jeon",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"jpn030": {
+		"f_name": "Yuki Tanaka",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"vnm011": {
+		"f_name": "Nguyen Gia Bao",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"isr046": {
+		"f_name": "Adel Petelko",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"chn029": {
+		"f_name": "Haoqing Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"arm005": {
+		"f_name": "Martin Khachatryan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"syr016": {
+		"f_name": "Bernard Ibrahimcha",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"egy019": {
+		"f_name": "Zeyad Mahmoud Abdulghany Lashean",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"rus022": {
+		"f_name": "Ivan Piskarev",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"mng030": {
+		"f_name": "Tengis Sugar",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"jpn059": {
+		"f_name": "Yuki Yoshida",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"bgd008": {
+		"f_name": "Navid Tawsif",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"aze015": {
+		"f_name": "Raul Jafarli",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"egy022": {
+		"f_name": "Sondos Walid El-Shobaky",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"isr045": {
+		"f_name": "Noam Lavi",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"mng008": {
+		"f_name": "Turbileg Batbileg",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"jpn041": {
+		"f_name": "Reo Hitomi",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"phl009": {
+		"f_name": "Jan Michael Sanggoy Tauli",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"kaz006": {
+		"f_name": "Diss Arystanbek ",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"mys020": {
+		"f_name": "Jayson Chia Jia Sheng",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"jpn029": {
+		"f_name": "Yuto Takeuchi",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"sau005": {
+		"f_name": "Jana Eadh Alzahrani",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"aze002": {
+		"f_name": "Fidan Huseynova",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"chn009": {
+		"f_name": "Sheyu Ren",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"mac009": {
+		"f_name": "Kam Seng Lei",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"arm003": {
+		"f_name": "Hamlet Petrosyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"jpn019": {
+		"f_name": "Ryunosuke Kodama",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"chn050": {
+		"f_name": "Jincheng Zhai",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"ind006": {
+		"f_name": "Arnav Binoy Luhadiya",
+		"l_name": "",
+		"team": "IND"
+	},
+	"lka005": {
+		"f_name": "Ramanayaka Mudiyanselage Minindu Manuja Jayasekara",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"idn016": {
+		"f_name": "Nicholas Sindoro",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"kgz009": {
+		"f_name": "Tengiz Bekkoyonov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"jpn031": {
+		"f_name": "Souta Tahara",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"mys026": {
+		"f_name": "Tan Shin",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"jpn050": {
+		"f_name": "Matsumoto Rintaro",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"kaz017": {
+		"f_name": "Imran Turganov",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"hkg025": {
+		"f_name": "Yeung Shing Hei Angus",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"aze014": {
+		"f_name": "Farid Tariverdiyev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"mys018": {
+		"f_name": "Amos Tan Ming Hong",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"irn005": {
+		"f_name": "Koosha Moosavi",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"jpn006": {
+		"f_name": "Ryoga Iwata",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"phl002": {
+		"f_name": "Jose Mari Paolo Burgos Rollan",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"kgz006": {
+		"f_name": "Dzheentaev Bektur",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"kor040": {
+		"f_name": "Eugene Lee",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"mac026": {
+		"f_name": "Hang Chi Ng",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"idn017": {
+		"f_name": "Vannes Wijaya",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"rus004": {
+		"f_name": "Ilya Burkov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"mng028": {
+		"f_name": "Purevdavaa Shirnendorj",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"chn044": {
+		"f_name": "Zihao Sun",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"uzb010": {
+		"f_name": "Mansuraliyev Husanboy",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"egy012": {
+		"f_name": "Hamed Ashraf Hamed Elgizery",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"hkg004": {
+		"f_name": "Wang Chi Ho",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"hkg033": {
+		"f_name": "Cheung Chun Lok",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"hkg019": {
+		"f_name": "Wong Sheung Chit",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"bgd001": {
+		"f_name": "Debojoti Das Soumya",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"kor025": {
+		"f_name": "Kibeom Kim",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"kor008": {
+		"f_name": "Youngwoo Park",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"geo015": {
+		"f_name": "Mate Zhorzholiani",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"egy026": {
+		"f_name": "Omar Elgedawy",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"kor018": {
+		"f_name": "Seokhyeon Jung",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"aus009": {
+		"f_name": "Jerry Zirui Li",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"isr001": {
+		"f_name": "Elazar Koren",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"chn014": {
+		"f_name": "Xuanyu Chu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"uzb002": {
+		"f_name": "Zokirmatova Zarnigor",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"jpn045": {
+		"f_name": "Iroha Maple Heffernan",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"vnm013": {
+		"f_name": "Nguyen Phu Binh",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"ind005": {
+		"f_name": "Arjav Jain",
+		"l_name": "",
+		"team": "IND"
+	},
+	"jpn047": {
+		"f_name": "Takuma Masuda",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"kor037": {
+		"f_name": "Sejin Park",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"twn004": {
+		"f_name": "Yu-Jie Lin",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"kor030": {
+		"f_name": "Taein Oh",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"chn021": {
+		"f_name": "Jiaze Wei",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"kor036": {
+		"f_name": "Hyungeol Ryu",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"jpn017": {
+		"f_name": "Yuichiro Koga",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"syr030": {
+		"f_name": "Abdulrahman Ahdali",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"mac029": {
+		"f_name": "Si In Lei",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"ind011": {
+		"f_name": "Gargie Upendra Tambe",
+		"l_name": "",
+		"team": "IND"
+	},
+	"lka007": {
+		"f_name": "Telge Shakya Imanjith Peiris",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"kaz002": {
+		"f_name": "Mansur Taimas",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"tha010": {
+		"f_name": "Kamanun Maneesri",
+		"l_name": "",
+		"team": "THA"
+	},
+	"aze007": {
+		"f_name": "Mete Namazov",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"jpn022": {
+		"f_name": "Yuki Saito",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"jpn048": {
+		"f_name": "Tomoki Matsui",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"arm022": {
+		"f_name": "Alex Grigoryan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"chn013": {
+		"f_name": "Xuanye Zheng",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"egy008": {
+		"f_name": "Sara Mostafa Saad Abdullah",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"ind052": {
+		"f_name": "Vibhaas Nirantar Srivastava",
+		"l_name": "",
+		"team": "IND"
+	},
+	"tha006": {
+		"f_name": "Teejuta Sriwaranon",
+		"l_name": "",
+		"team": "THA"
+	},
+	"aus010": {
+		"f_name": "Rohan Timmaraju",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"nzl002": {
+		"f_name": "Nicholas Grace",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"jpn049": {
+		"f_name": "Yamato Matsuba",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"mys006": {
+		"f_name": "Ong Zhi Zheng",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"vnm014": {
+		"f_name": "Vu Hoang Giap",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"kgz021": {
+		"f_name": "Daniyar Beishekeev",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"mac017": {
+		"f_name": "Chan Ieon Cheong",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"sgp007": {
+		"f_name": "Ryan See Weixuan",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"mng031": {
+		"f_name": "Bat-Yeruult Battsagaan",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"idn011": {
+		"f_name": "Juan Carlo Vieri",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"kaz013": {
+		"f_name": "Sakhmoldin Mukhammadarif",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"geo011": {
+		"f_name": "Nino Chkhaidze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"ind015": {
+		"f_name": "Megha Hegde ",
+		"l_name": "",
+		"team": "IND"
+	},
+	"geo009": {
+		"f_name": "Luka Meladze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"ind053": {
+		"f_name": "Abhishek",
+		"l_name": "",
+		"team": "IND"
+	},
+	"kaz016": {
+		"f_name": "Adlet Dautbek ",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"sgp013": {
+		"f_name": "Song Yiyang",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"hkg010": {
+		"f_name": "Ho Yik Tsun Bastien",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"egy004": {
+		"f_name": "Omar Mohamed Alshaarawi",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"mac019": {
+		"f_name": "Chun Ioi Chan",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"hkg027": {
+		"f_name": "Li Shun Hin",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"kgz014": {
+		"f_name": "Baktiiar Barhatbek uulu",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"aze004": {
+		"f_name": "Fuad Garayev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"mng014": {
+		"f_name": "Bilguun Erkhembayar",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"hkg029": {
+		"f_name": "Leung Ka Chai Justin",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"jor016": {
+		"f_name": "Mariam Belal alhafnawi",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"tkm009": {
+		"f_name": "Umidjan Torebayev",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"nzl008": {
+		"f_name": "Arshia Lotfi",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"ind025": {
+		"f_name": "Srivatsav Kannan",
+		"l_name": "",
+		"team": "IND"
+	},
+	"chn046": {
+		"f_name": "Zhaoyang Hu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"idn004": {
+		"f_name": "Arvin",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"isr033": {
+		"f_name": "Doron Walach",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"jpn025": {
+		"f_name": "Suzuki Haruto",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"arm001": {
+		"f_name": "Arayi Khalatyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"phl026": {
+		"f_name": "Jeremiah Daniel A. Regalario",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"kaz010": {
+		"f_name": "Amir Kigash",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"mng023": {
+		"f_name": "Tuvshinbayar Mandakh",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"hkg035": {
+		"f_name": "Ho Chun Ho",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"mng027": {
+		"f_name": "Chinguun Byambajav",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"rus029": {
+		"f_name": "Gleb Ustimenko",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"tkm019": {
+		"f_name": "Begnazar Begnazarov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"geo024": {
+		"f_name": "Nikoloz Gabriadze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"jor012": {
+		"f_name": "Majdaldeen Asim Alqaruty",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"kgz031": {
+		"f_name": "Emil Talypov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"hkg023": {
+		"f_name": "Zhang Ryan Jon",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"isr023": {
+		"f_name": "Yaniv Yadgar",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"kor032": {
+		"f_name": "Hakyung Jang",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"mac040": {
+		"f_name": "Chon Hong Nip",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"jpn037": {
+		"f_name": "Hachiya Tomohisa",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"nzl001": {
+		"f_name": "Alan Niu",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"kgz029": {
+		"f_name": "Talant Diykanbaev",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"syr008": {
+		"f_name": "Mohammad Rasoul Derbas",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"jpn027": {
+		"f_name": "Isane Sekiguchi",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"hkg013": {
+		"f_name": "Ko Kin Fung Nicholas",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"ind008": {
+		"f_name": "Aryan Maskara",
+		"l_name": "",
+		"team": "IND"
+	},
+	"ind033": {
+		"f_name": "Dev Mandal",
+		"l_name": "",
+		"team": "IND"
+	},
+	"uzb011": {
+		"f_name": "Ismoilov Asliddin",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"twn012": {
+		"f_name": "Yun-Chen Cheng",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"tha004": {
+		"f_name": "Thitrin Sastarasadhit",
+		"l_name": "",
+		"team": "THA"
+	},
+	"hkg018": {
+		"f_name": "Wong Tsz Ching",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"ind040": {
+		"f_name": "Tanmay Garg",
+		"l_name": "",
+		"team": "IND"
+	},
+	"sgp001": {
+		"f_name": "Ashley Aragorn Khoo",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"phl008": {
+		"f_name": "Mayan Grace Abrabar Centeno",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"kor026": {
+		"f_name": "Changha Kim",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"aze010": {
+		"f_name": "Turab Haqverdiyev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"phl025": {
+		"f_name": "Raphael Dylan T. Dalida",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"irn004": {
+		"f_name": "Alireza Kaviani",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"nzl009": {
+		"f_name": "Yuhao (Jacky) Zhang",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"kgz010": {
+		"f_name": "Nursultan Ulanbekov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"hkg026": {
+		"f_name": "Wong Jayden Moses",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"sau011": {
+		"f_name": "Juri Ibrahim Aljohani",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"mac003": {
+		"f_name": "Hok Fong Wong",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"vnm015": {
+		"f_name": "Tran Khoi Nguyen",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"mys024": {
+		"f_name": "Eugene Hwang",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"vnm007": {
+		"f_name": "Le Huu Nghia",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"tkm013": {
+		"f_name": "Guych Saryyev",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"kor039": {
+		"f_name": "Yeonwoo Oh",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"ind055": {
+		"f_name": "Niloy Dey",
+		"l_name": "",
+		"team": "IND"
+	},
+	"irn023": {
+		"f_name": "Ryan Hadidi",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"mac004": {
+		"f_name": "Chi Ho Zheng",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"tur009": {
+		"f_name": "Yusuf Emir Coşar",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"jpn056": {
+		"f_name": "Yoshikazu Yuhara",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"tkm017": {
+		"f_name": "Dovran Myratmuhammedov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"isr010": {
+		"f_name": "Carmel Abramson",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"sau008": {
+		"f_name": "Majid Salah Alburaiky",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"sau003": {
+		"f_name": "Humaid Ahmed Alhuthali",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"syr015": {
+		"f_name": "Laila Sarhan",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"aze027": {
+		"f_name": "Royal Hasanov",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"ind031": {
+		"f_name": "Satyam Chakravorty",
+		"l_name": "",
+		"team": "IND"
+	},
+	"mac023": {
+		"f_name": "Chon Wai Ngan",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"jpn009": {
+		"f_name": "Haruto Oguma",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"phl017": {
+		"f_name": "Cassidy Kyler Lao Tan",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"kor010": {
+		"f_name": "Esen Shim",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"isr011": {
+		"f_name": "Alon maayan ",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"geo020": {
+		"f_name": "Ketevani Dvalishvili",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"irn002": {
+		"f_name": "AmirMohammad Shahrezaei",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"nzl004": {
+		"f_name": "Jonathon Sun",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"sgp017": {
+		"f_name": "Zeng Minghao",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"rus006": {
+		"f_name": "Anton Egorov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"kgz001": {
+		"f_name": "Abdurrazzak Baktybekov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"kgz008": {
+		"f_name": "Alihan Aidarbekov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"aze016": {
+		"f_name": "Elcan Mustafayev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"jpn016": {
+		"f_name": "Kento Kuwataka",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"chn038": {
+		"f_name": "Muyan Zhou",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"isr004": {
+		"f_name": "Alon Tanay",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"tkm016": {
+		"f_name": "Nazira Rustamova",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"egy029": {
+		"f_name": "Slsabil Fahmy",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"mng022": {
+		"f_name": "Amarsanaa Gantumur",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"tha005": {
+		"f_name": "Wichada Chaiprasertsud",
+		"l_name": "",
+		"team": "THA"
+	},
+	"syr032": {
+		"f_name": "Ahmad AlRefaei",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"ind007": {
+		"f_name": "Aruj Bansal",
+		"l_name": "",
+		"team": "IND"
+	},
+	"isr005": {
+		"f_name": "Yoav Linhart",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"aus011": {
+		"f_name": "Andy Wu",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"chn045": {
+		"f_name": "Hongyi Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"syr034": {
+		"f_name": "Abdullah Abdullah",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"vnm006": {
+		"f_name": "Pham Quoc Hung",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"aus002": {
+		"f_name": "Daniel Abdullah Zain",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"kaz005": {
+		"f_name": "Arman Issayev",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"mys014": {
+		"f_name": "Wong Jer Ren",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"kgz024": {
+		"f_name": "Erzhan Ulukbekov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"geo016": {
+		"f_name": "Nika Kokhreidze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"kor020": {
+		"f_name": "Younguk Jo",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"jpn010": {
+		"f_name": "Ryota Obara",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"mac012": {
+		"f_name": "Zeyi Shen",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"kaz018": {
+		"f_name": "Aliaskar Alenov",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"aus005": {
+		"f_name": "Henry Ho",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"aze001": {
+		"f_name": "Said Nasibov",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"aze006": {
+		"f_name": "Omar Afandi",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"phl014": {
+		"f_name": "Mayumie T. Aquino",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"chn047": {
+		"f_name": "Li Cao",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"mys016": {
+		"f_name": "Isaac Hew Kai Sheng",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"lka002": {
+		"f_name": "Wickramasinghe Arachchige Chirath Nirodha",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"syr014": {
+		"f_name": "Ebrahim Aldabagh",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"geo023": {
+		"f_name": "David Tkeshelashvili",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"syr009": {
+		"f_name": "Jean Sayegh",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"jpn005": {
+		"f_name": "Mitsuhiro Ito",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"sgp014": {
+		"f_name": "Huang Qirui",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"jpn008": {
+		"f_name": "Kenta Okuda",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"mys022": {
+		"f_name": "Lau Tin Hang",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"rus003": {
+		"f_name": "Daniil Belyaev",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"chn005": {
+		"f_name": "Shenghan Lin",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"egy003": {
+		"f_name": "Abdelrahman Mohammed Abdelfattah",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"geo017": {
+		"f_name": "Otar Nozadze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"jor004": {
+		"f_name": "Yahia Muawiyah BaniHamdan",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"chn052": {
+		"f_name": "Yuli Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"kgz025": {
+		"f_name": "Bekzat Zhaparov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"jpn038": {
+		"f_name": "Shun Hattori",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"isr039": {
+		"f_name": "Hadar Baum",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"jpn007": {
+		"f_name": "Katsuki Ohta",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"arm009": {
+		"f_name": "Zhora Unupoghlyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"kor003": {
+		"f_name": "Yongjun Kim",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"ind045": {
+		"f_name": "Siddhant Agarwal",
+		"l_name": "",
+		"team": "IND"
+	},
+	"hkg012": {
+		"f_name": "Shiu Yu Hin Bernard",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"chn017": {
+		"f_name": "Minxing Yang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"tha015": {
+		"f_name": "Nattgarni Aphimookkul",
+		"l_name": "",
+		"team": "THA"
+	},
+	"syr031": {
+		"f_name": "Molham Adla",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"mac034": {
+		"f_name": "Chong Un Un",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"idn015": {
+		"f_name": "Maximilliano Utomo",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"tha020": {
+		"f_name": "Pakarin Leetrairong",
+		"l_name": "",
+		"team": "THA"
+	},
+	"jpn051": {
+		"f_name": "Munechika Yuki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"kgz018": {
+		"f_name": "Maksat Temirbekov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"hkg017": {
+		"f_name": "Chan Pak Hei",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"isr035": {
+		"f_name": "Berry Winetraub ",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"ind012": {
+		"f_name": "Harshin Posina",
+		"l_name": "",
+		"team": "IND"
+	},
+	"syr022": {
+		"f_name": "Mohamad Ali Haj Hussein",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"chn037": {
+		"f_name": "Pingchuan Ma",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"jpn060": {
+		"f_name": "Yuto Watanabe",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"aze009": {
+		"f_name": "Vusat Orujov",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"syr033": {
+		"f_name": "Mjd Salloum",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"nzl005": {
+		"f_name": "Derek Peng",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"phl020": {
+		"f_name": "Mark Stephen Amit Bueno",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"vnm008": {
+		"f_name": "Nguyen Hoang Vu",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"ind023": {
+		"f_name": "Sarthak Mangla",
+		"l_name": "",
+		"team": "IND"
+	},
+	"geo002": {
+		"f_name": "Iakob Rigvava",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"kaz012": {
+		"f_name": "Ramazan Perdebai",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"jpn021": {
+		"f_name": "Saito Kenta",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"kor005": {
+		"f_name": "Kiyun Park",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"chn026": {
+		"f_name": "Xiaohan Yang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"hkg037": {
+		"f_name": "Liu Zi Yu",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"sau013": {
+		"f_name": "Leen Majed Qanash",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"tur002": {
+		"f_name": "Alperen Tupurtu",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"sau014": {
+		"f_name": "Dhay Ali Shujaa",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"irn012": {
+		"f_name": "Behrad Hemati Aghabagheri",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"bgd005": {
+		"f_name": "Shahriar Khan Ome",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"bgd010": {
+		"f_name": "Adnan Sadik",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"syr037": {
+		"f_name": "Rayan Abdallah",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"chn043": {
+		"f_name": "Hao Hu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"isr025": {
+		"f_name": "Gilad Hertzberg Rabinovich",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"mng015": {
+		"f_name": "Bilegt Togtokhbayar",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"mng011": {
+		"f_name": "Amarjargal Ayurzana",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"geo013": {
+		"f_name": "Mikheil Dadiani",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"tur007": {
+		"f_name": "Fatih Solak",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"vnm004": {
+		"f_name": "Nguyen Quang Minh",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"chn048": {
+		"f_name": "Chenran Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"kaz001": {
+		"f_name": " Ilyas Shermakhanov",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"tha016": {
+		"f_name": "Chayanin Kongsareekul",
+		"l_name": "",
+		"team": "THA"
+	},
+	"jpn018": {
+		"f_name": "Daiki Kodama",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"tha009": {
+		"f_name": "Mok Wattanasopon",
+		"l_name": "",
+		"team": "THA"
+	},
+	"isr027": {
+		"f_name": "Negev Taglicht",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"chn024": {
+		"f_name": "Yiwei Qin",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"syr010": {
+		"f_name": "Khaled Wahiba",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"aze032": {
+		"f_name": "Toghrul Gasimzade",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"syr029": {
+		"f_name": "Hussain Bu Subayt",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"sgp009": {
+		"f_name": "Koh Jia Hng",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"arm018": {
+		"f_name": "Gagik Gevorgyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"syr004": {
+		"f_name": "Farhan AlHaj Younes",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"kgz027": {
+		"f_name": "Kanimet Busurmankulov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"jor005": {
+		"f_name": "Mohammad abdualla Aref",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"sau007": {
+		"f_name": "Adeeb Salem Alshehry",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"isr034": {
+		"f_name": "Sacha Hallermeier",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"chn004": {
+		"f_name": "Laiheng Song",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"hkg028": {
+		"f_name": "Cheung Yik Fung",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"twn011": {
+		"f_name": "Hsin-Wei Hou",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"ind028": {
+		"f_name": "Vivaan Gupta",
+		"l_name": "",
+		"team": "IND"
+	},
+	"uzb001": {
+		"f_name": "Mamatxonova Ziyodaxon",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"phl023": {
+		"f_name": "Shawn Darren S. Chua",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"tha012": {
+		"f_name": "Thanapon Maiseaumsook",
+		"l_name": "",
+		"team": "THA"
+	},
+	"uzb005": {
+		"f_name": "Najmiddinov Ahliddin",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"hkg039": {
+		"f_name": "Wong Tsz Him",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"syr023": {
+		"f_name": "Hazem Dalati ",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"isr040": {
+		"f_name": "Lia Geva Brodt",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"sgp004": {
+		"f_name": "Daniel Toh Jing En",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"chn018": {
+		"f_name": "Youran Sun",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"jpn001": {
+		"f_name": "Keito Agetsuma",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"geo019": {
+		"f_name": "Mate Giorbelidze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"ind019": {
+		"f_name": "Paras Kasmalkar",
+		"l_name": "",
+		"team": "IND"
+	},
+	"ind010": {
+		"f_name": "Devika Umesh Bej",
+		"l_name": "",
+		"team": "IND"
+	},
+	"idn010": {
+		"f_name": "Joshua James",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"nzl003": {
+		"f_name": "Phoebe Zhang",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"aze008": {
+		"f_name": "Elnur Mammadli",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"chn007": {
+		"f_name": "Bocheng Jiang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"irn008": {
+		"f_name": "Parsa Alizadeh",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"arm016": {
+		"f_name": "Samvel Abelyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"chn051": {
+		"f_name": "Qiuyang Zhang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"rus024": {
+		"f_name": "Valerii Rodionov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"irn007": {
+		"f_name": "Parsa Pordeli Behrouz",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"syr006": {
+		"f_name": "Zain Alabdin Zammar",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"aze026": {
+		"f_name": "Ayan Karimova",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"twn009": {
+		"f_name": "Yung-Yao Cheng",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"mys002": {
+		"f_name": "Chooi Je Qin",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"egy023": {
+		"f_name": "Yasseen Ahmed Mohamed Kamel",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"kor028": {
+		"f_name": "Inhyuk Park",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"uzb014": {
+		"f_name": "Khujaev Dilshodbek",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"mac016": {
+		"f_name": "Ngou Hin Cheang",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"isr003": {
+		"f_name": "Yahli Hecht ",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"rus021": {
+		"f_name": "Evgenii Pakhomov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"tha017": {
+		"f_name": "Thanwisit Suthamkasem",
+		"l_name": "",
+		"team": "THA"
+	},
+	"hkg009": {
+		"f_name": "Wong Chun",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"kor024": {
+		"f_name": "Donghwa Ji",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"chn042": {
+		"f_name": "Yufeng Cheng",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"tha014": {
+		"f_name": "Theeraphat Trongmetheerat",
+		"l_name": "",
+		"team": "THA"
+	},
+	"mys023": {
+		"f_name": "Lim Yi Qi",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"idn001": {
+		"f_name": "Albert Ariel Putra",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"syr035": {
+		"f_name": "Maen Nashwati",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"sau012": {
+		"f_name": "Rifal Khalid Alhazmi",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"chn027": {
+		"f_name": "Chenhan Liao",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"jpn055": {
+		"f_name": "Kajitsu Yuasa",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"phl033": {
+		"f_name": "Gerrymie Florel I. Bajaro",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"ind014": {
+		"f_name": "Kshitij Sodani",
+		"l_name": "",
+		"team": "IND"
+	},
+	"aze031": {
+		"f_name": "Amin Jafarzade",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"aze029": {
+		"f_name": "Nizami Taghizada",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"mys009": {
+		"f_name": "Vee Hua Zhi",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"jor020": {
+		"f_name": "Noor Abdallah Al-Shamayleh",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"kgz013": {
+		"f_name": "Muhammed Ergeshov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"phl019": {
+		"f_name": "Frederick Ivan Tiong Tan",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"phl018": {
+		"f_name": "Alexandra Brianne B. Gochian",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"mac022": {
+		"f_name": "Chon Hou Ye",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"mng021": {
+		"f_name": "Onolt Khurtsbilguun",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"ind022": {
+		"f_name": "Ropan Datta",
+		"l_name": "",
+		"team": "IND"
+	},
+	"isr006": {
+		"f_name": "Eitan Elbaum",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"phl030": {
+		"f_name": "John Eric Pura Estrada",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"rus027": {
+		"f_name": "Anton Stepanov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"bgd012": {
+		"f_name": "Mamnoon Siam",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"ind039": {
+		"f_name": "Parasa V. Prajwal",
+		"l_name": "",
+		"team": "IND"
+	},
+	"aze024": {
+		"f_name": "Alim Hajiyev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"chn016": {
+		"f_name": "Siyuan Cheng",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"ind021": {
+		"f_name": "Ronnith Nandy",
+		"l_name": "",
+		"team": "IND"
+	},
+	"syr012": {
+		"f_name": "Salam Alchaikh Hassan",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"mys025": {
+		"f_name": "Lim Ming Wen",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"rus016": {
+		"f_name": "Petr Losev",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"chn053": {
+		"f_name": "Anyi Xu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"isr018": {
+		"f_name": "Lior Altahan",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"geo007": {
+		"f_name": "Luka Mosiashvili",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"syr020": {
+		"f_name": "Mohammad Rammou",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"twn003": {
+		"f_name": "Po-Hsi Lin",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"kgz030": {
+		"f_name": "Aidar Munduzbaev",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"idn007": {
+		"f_name": "Joel Gunawan",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"kgz004": {
+		"f_name": "Marlen Orozaliev",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"tha002": {
+		"f_name": "Chayanant Sandee",
+		"l_name": "",
+		"team": "THA"
+	},
+	"kor015": {
+		"f_name": "Jihoo Lee",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"egy021": {
+		"f_name": "Yahia Ahmed",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"kor004": {
+		"f_name": "Jeonghoo Moon",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"mng017": {
+		"f_name": "Dejid Baatarsuren",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"egy024": {
+		"f_name": "Mohamed Bakry",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"hkg007": {
+		"f_name": "Lam Lap Yu",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"chn011": {
+		"f_name": "Yongcong Wu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"arm019": {
+		"f_name": "Gevorg Boyakhchyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"tha001": {
+		"f_name": "Krit Suwanpaiboon",
+		"l_name": "",
+		"team": "THA"
+	},
+	"phl006": {
+		"f_name": "Ken Nikolai Flores",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"syr007": {
+		"f_name": "Shady Alhasan",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"sau010": {
+		"f_name": "Zaid Alhussein Alshenguity",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"tkm012": {
+		"f_name": "Ihlas Ismailov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"ind013": {
+		"f_name": "Karan Sagar Gandhi",
+		"l_name": "",
+		"team": "IND"
+	},
+	"uzb012": {
+		"f_name": "Valijanov Dilyorbek",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"idn013": {
+		"f_name": "Mahartha Gemilang",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"hkg011": {
+		"f_name": "Cheung Hui Yat",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"jor013": {
+		"f_name": "Aya taleb Alfaour",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"irn015": {
+		"f_name": "Parsa Eslami",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"isr028": {
+		"f_name": "Ouria Ben Shoshan",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"nzl007": {
+		"f_name": "Bruce Chen",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"hkg020": {
+		"f_name": "Lau Tsz Ho",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"mac037": {
+		"f_name": "Hei Chit Leong",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"jpn034": {
+		"f_name": "Ryusei Nagai",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"mac032": {
+		"f_name": "Kin Nam Lao",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"isr024": {
+		"f_name": "Neri Weinroth",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"uzb007": {
+		"f_name": "Miroqilov Davlatbek",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"jor015": {
+		"f_name": "Anmar Arafat al Moumani",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"tur011": {
+		"f_name": "Ege Kabasakaloğlu",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"mac015": {
+		"f_name": "Io Fai Lei",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"chn041": {
+		"f_name": "Hengrui Zhang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"kgz011": {
+		"f_name": "Bekzat Zhusupov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"idn012": {
+		"f_name": "Kelven Nathanael",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"phl022": {
+		"f_name": "Alan Benedict Sison Vender ",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"jpn003": {
+		"f_name": "Keita Iguchi",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"tkm011": {
+		"f_name": "Dayanch Berdihanov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"chn002": {
+		"f_name": "Cheng Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"syr026": {
+		"f_name": "Zain Bilal",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"irn001": {
+		"f_name": "Soheil Mohammadkhani",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"mys013": {
+		"f_name": "Heng Hau Ye",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"sgp015": {
+		"f_name": "Jamie Lim Jia Sin",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"kaz008": {
+		"f_name": "Van Li",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"chn020": {
+		"f_name": "Zhicheng Tang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"geo008": {
+		"f_name": "Tarash Dolaberidze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"idn005": {
+		"f_name": "Daniel Anantadhirya Adyawisesa Linan",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"aze023": {
+		"f_name": "Sara Gurbanli",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"jpn035": {
+		"f_name": "Nakayama Chihiro",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"vnm005": {
+		"f_name": "Hoang Ngoc Bao Khue",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"ind042": {
+		"f_name": "Siddhant Attavar",
+		"l_name": "",
+		"team": "IND"
+	},
+	"ind037": {
+		"f_name": "Sumit Kumar ",
+		"l_name": "",
+		"team": "IND"
+	},
+	"syr019": {
+		"f_name": "Apraham Jamil",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"egy027": {
+		"f_name": "Shahd Mohamed Abdalla Abdelhalim",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"ind029": {
+		"f_name": "Yash Haresh Thakker ",
+		"l_name": "",
+		"team": "IND"
+	},
+	"ind051": {
+		"f_name": "Avaneesh Kumar",
+		"l_name": "",
+		"team": "IND"
+	},
+	"aus006": {
+		"f_name": "David Wang",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"mac024": {
+		"f_name": "Yuxiang Lin ",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"syr021": {
+		"f_name": "Antwan Dabbous",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"aus001": {
+		"f_name": "Evan Lin",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"kor021": {
+		"f_name": "Yihwan Chae",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"hkg002": {
+		"f_name": "Lee Po Wa",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"ind047": {
+		"f_name": "Srivaths P",
+		"l_name": "",
+		"team": "IND"
+	},
+	"chn015": {
+		"f_name": "Huaisha Zhang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"jor001": {
+		"f_name": "Mohammad Sultan Jabata",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"chn058": {
+		"f_name": "Chengcheng Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"tur001": {
+		"f_name": "Ahmet Güneyli",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"bgd006": {
+		"f_name": "Pranshu Prodipta",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"sau009": {
+		"f_name": "Abdullah Mazen Alwazzan ",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"egy013": {
+		"f_name": "Yahia Ahmed Abdellatif Ali Emara",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"kgz003": {
+		"f_name": "Muratbek Daud",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"mng025": {
+		"f_name": "Khastengis Chinzorig",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"mac039": {
+		"f_name": "Song Pok Hong ",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"bgd009": {
+		"f_name": "Imran Hossain",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"uzb013": {
+		"f_name": "Jurabekov Otabek",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"kgz007": {
+		"f_name": "Edil Kadyrov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"phl007": {
+		"f_name": "Jose Kenley Sasaki Dela Pena",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"chn008": {
+		"f_name": "Haoyuan Zheng",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"irn024": {
+		"f_name": "Ilia Mireskandari",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"isr012": {
+		"f_name": "Tamir Shahar",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"jor006": {
+		"f_name": "Obada Munther Alarar",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"jpn020": {
+		"f_name": "Aruma Komazaki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"rus030": {
+		"f_name": "Alexey Vasilyev",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"ind036": {
+		"f_name": "Viraj Uday Singh",
+		"l_name": "",
+		"team": "IND"
+	},
+	"phl027": {
+		"f_name": "Marco Elijah M. Arcallana",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"phl010": {
+		"f_name": "Sean Samuel V. Bolo",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"tkm001": {
+		"f_name": "Gurbanberdi Gulladyyev",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"jpn014": {
+		"f_name": "Kanno Tomoya",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"chn010": {
+		"f_name": "Danqing Liu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"geo003": {
+		"f_name": "David Memarnishvili",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"kor027": {
+		"f_name": "Juhwan Roh",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"hkg024": {
+		"f_name": "Xie Lingrui",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"jpn058": {
+		"f_name": "Yoshida Masayuki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"tur008": {
+		"f_name": "Hüseyin Burak Gürdal",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"mys017": {
+		"f_name": "Wayne Khoo Yan Hong",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"chn049": {
+		"f_name": "Yikai Zhu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"aze028": {
+		"f_name": "Elvin Imanli",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"jpn044": {
+		"f_name": "Furukawa Hiroki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"irn022": {
+		"f_name": "Radin Jarireh",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"kor001": {
+		"f_name": "Keonwoo Kim",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"jor007": {
+		"f_name": "Malik Wael Sadaqa",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"mac010": {
+		"f_name": "Shanjie Hu",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"irn013": {
+		"f_name": "Mohammadmahdi Khavari",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"geo006": {
+		"f_name": "Erekle Khomasuridze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"jor018": {
+		"f_name": "Masa Ziyad Abu Hammour",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"tur004": {
+		"f_name": "Yusuf Onur Üşümez",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"mac011": {
+		"f_name": "Yangshen Pan",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"hkg014": {
+		"f_name": "Chau Lai Yin",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"lka001": {
+		"f_name": "Sithija Abhishek Kotuwewatta",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"chn001": {
+		"f_name": "Jianfeng Zhu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"kor006": {
+		"f_name": "Minchul Park",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"isr043": {
+		"f_name": "Sivan Khermosh",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"arm017": {
+		"f_name": "Hayk Aghayan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"kor011": {
+		"f_name": "Jaewon Yoo",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"rus008": {
+		"f_name": "Vladislav Glazkov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"egy025": {
+		"f_name": "Begad Ahmed",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"syr027": {
+		"f_name": "Mohammad Amro Nassif",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"vnm010": {
+		"f_name": "Vu Huy Hoang",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"isr037": {
+		"f_name": "Guy Zimmermann",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"mng005": {
+		"f_name": "Khangal Battur",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"jor009": {
+		"f_name": "Mohammad Hazem Saad",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"tkm005": {
+		"f_name": "Didar Choganov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"mng013": {
+		"f_name": "Saikhanbileg Ts",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"aus007": {
+		"f_name": "Tom He",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"rus010": {
+		"f_name": "Dmitrii Gromak",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"syr005": {
+		"f_name": "Mohammad Habboush",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"jor017": {
+		"f_name": "Sohaib Belal alhafnawi",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"tkm018": {
+		"f_name": "Baynazar Muhammedov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"mng019": {
+		"f_name": "Munkhzul Ganzorig",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"kaz004": {
+		"f_name": "Kanysh Mukhametkarim",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"ind035": {
+		"f_name": "Satya Siddharth Putta",
+		"l_name": "",
+		"team": "IND"
+	},
+	"idn006": {
+		"f_name": "Gustav Ian Setiabudi",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"vnm012": {
+		"f_name": "Pham Xuan Trung",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"chn056": {
+		"f_name": "Ruize Sun",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"jor002": {
+		"f_name": "Rasheed Nidal Qarqash",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"rus025": {
+		"f_name": "Fedor Romashov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"rus011": {
+		"f_name": "Renat Karimov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"jpn040": {
+		"f_name": "Ryotaro Hayashi",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"hkg021": {
+		"f_name": "Chan Ho Yin",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"aze003": {
+		"f_name": "Khizri Sakhrayev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"kor041": {
+		"f_name": "Taeyun Lee",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"mng029": {
+		"f_name": "Delgermaa Sukhbaatar",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"mng020": {
+		"f_name": "Anand-Ochir Amartuvshin",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"mys012": {
+		"f_name": "Tee Jin Seng",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"ind043": {
+		"f_name": "Satyankar Chandra",
+		"l_name": "",
+		"team": "IND"
+	},
+	"mng018": {
+		"f_name": "Ualibek Nurgulan",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"jor010": {
+		"f_name": "Mohammad Alaa Alwarawreh",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"mys008": {
+		"f_name": "Koh Zhi Xiang",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"rus026": {
+		"f_name": "Danila Solunov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"isr031": {
+		"f_name": "Elin Graife",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"kgz016": {
+		"f_name": "Sanzhar Sadirbekov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"mng009": {
+		"f_name": "Irmuun Chinbat",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"egy009": {
+		"f_name": "Hossam Sherif Ahmed",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"geo014": {
+		"f_name": "Luka Liklikadze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"idn002": {
+		"f_name": "Albert Yulius Ramahalim",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"tkm004": {
+		"f_name": "Orazmuhammet Begenjov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"mac038": {
+		"f_name": "Kuan Tek Mak",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"isr002": {
+		"f_name": "Daniel Weber",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"sgp012": {
+		"f_name": "Tia Shi Wei",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"kor009": {
+		"f_name": "Ditbul Ban",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"irn016": {
+		"f_name": "Pooya Shams kolahi",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"ind049": {
+		"f_name": "Aujasvit Datta",
+		"l_name": "",
+		"team": "IND"
+	},
+	"chn034": {
+		"f_name": "Juanzhang Cui",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"irn011": {
+		"f_name": "Mobin Pourabedini",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"irn006": {
+		"f_name": "Fateme Tamehri",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"isr020": {
+		"f_name": "Alon Krymgand",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"lka003": {
+		"f_name": "Apiram Rajamohan",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"pse003": {
+		"f_name": "Roba Katout ",
+		"l_name": "",
+		"team": "PSE"
+	},
+	"isr047": {
+		"f_name": "Shai Avraham",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"kor029": {
+		"f_name": " Jongkyung Park",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"mng012": {
+		"f_name": "Bilguudei Shinezul",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"aze022": {
+		"f_name": "Abbasgulu Zeynalov",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"chn060": {
+		"f_name": "Weilun Cheng",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"syr017": {
+		"f_name": "Yazan Alattar",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"twn005": {
+		"f_name": "Tai-Ying Chen",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"jor014": {
+		"f_name": "Rafat Mustafa Da'na",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"kor023": {
+		"f_name": "Yerin Lee",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"twn010": {
+		"f_name": "Jhao-Syun Lai",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"chn032": {
+		"f_name": "Jiahao Huang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"nzl010": {
+		"f_name": "Zalan Varga",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"rus019": {
+		"f_name": "Vsevolod Nagibin",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"mac027": {
+		"f_name": "Hoi In Pan",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"mac031": {
+		"f_name": "In Iat Li",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"syr036": {
+		"f_name": "Karam Boubou",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"hkg003": {
+		"f_name": "Leung Ho Yin",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"hkg016": {
+		"f_name": "Han David Le Wei",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"nzl006": {
+		"f_name": "Isaac Siu",
+		"l_name": "",
+		"team": "NZL"
+	},
+	"mng007": {
+		"f_name": "Khishigdemberel Bayarkhuu",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"kaz003": {
+		"f_name": "Altair Ashurov",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"tur005": {
+		"f_name": "Cengiz Eray Aslan",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"ind018": {
+		"f_name": "Nishchay Bhutoria",
+		"l_name": "",
+		"team": "IND"
+	},
+	"egy018": {
+		"f_name": "Taha Mostafa",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"mng010": {
+		"f_name": "Bat-Orgil Bat-Amgalan",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"isr014": {
+		"f_name": "Mayan Salomon",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"ind003": {
+		"f_name": "Ananthram Vijayaraj",
+		"l_name": "",
+		"team": "IND"
+	},
+	"vnm002": {
+		"f_name": "Duong Minh Khoi",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"rus028": {
+		"f_name": "Andrey Tsoy",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"isr029": {
+		"f_name": "Gabriel Shoef",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"tkm015": {
+		"f_name": "Rejepmyrat Shemsetdinov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"pse002": {
+		"f_name": "Sohaib Sawalha",
+		"l_name": "",
+		"team": "PSE"
+	},
+	"kor031": {
+		"f_name": "Minjae Lee",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"chn012": {
+		"f_name": "Junhao Tan",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"tha011": {
+		"f_name": "Nutthapat Pongtanyavichai",
+		"l_name": "",
+		"team": "THA"
+	},
+	"jpn054": {
+		"f_name": "Yuna Yamashita",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"hkg022": {
+		"f_name": "Lai Hong Tung Honrich",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"geo025": {
+		"f_name": "Vakhtang Chachanidze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"chn057": {
+		"f_name": "Kaicheng Shi",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"jpn026": {
+		"f_name": "Suzuta Katsuki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"sau002": {
+		"f_name": "Almothana Farid Alzahrani",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"jpn036": {
+		"f_name": "Hibiki Nishiwaki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"ind026": {
+		"f_name": "Sushil Raaja U",
+		"l_name": "",
+		"team": "IND"
+	},
+	"kor012": {
+		"f_name": "Seungha Yun",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"isr016": {
+		"f_name": "Yael Ginzburg",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"jpn033": {
+		"f_name": "Tokita Yui",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"mac001": {
+		"f_name": "Chon Wai Sze",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"ind009": {
+		"f_name": "Bharat Singla",
+		"l_name": "",
+		"team": "IND"
+	},
+	"vnm009": {
+		"f_name": "Nguyen Nhat Minh",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"egy006": {
+		"f_name": "Fadi gamal galal",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"tkm008": {
+		"f_name": "Yhlas Yklymov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"geo010": {
+		"f_name": "Ketevan Tsimakuridze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"ind016": {
+		"f_name": "Neel Lodha",
+		"l_name": "",
+		"team": "IND"
+	},
+	"tha013": {
+		"f_name": "Jetsarit Kaewsaart",
+		"l_name": "",
+		"team": "THA"
+	},
+	"uzb006": {
+		"f_name": "Kim Svyetoslav",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"bgd003": {
+		"f_name": "Md Nafis Ul Haque Shifat",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"aus008": {
+		"f_name": "Kyle Zhang",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"hkg031": {
+		"f_name": "Chan Yin Ming",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"kaz007": {
+		"f_name": "Taimas Korganbayev ",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"hkg032": {
+		"f_name": "Lai Wai Lok",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"hkg005": {
+		"f_name": "Hsia Yik To Ernest",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"mng024": {
+		"f_name": "Dulguun Bayanmunkh",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"isr021": {
+		"f_name": "Yoad Yahalom Weiss",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"kgz017": {
+		"f_name": "Tazhibaev Iskhak",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"lka006": {
+		"f_name": "Anuk Indipa Kankanam Gamage",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"ind038": {
+		"f_name": "Mohit joshi",
+		"l_name": "",
+		"team": "IND"
+	},
+	"isr041": {
+		"f_name": "Amir David Lavi",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"hkg038": {
+		"f_name": "Wong Ho Yan",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"uzb004": {
+		"f_name": "Sunnatov Asilbek",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"syr003": {
+		"f_name": "Amro Abbara",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"chn033": {
+		"f_name": "Haoxu Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"pse005": {
+		"f_name": "Anas Abu Amar",
+		"l_name": "",
+		"team": "PSE"
+	},
+	"ind030": {
+		"f_name": "Yash Vatsalya Jaiswal",
+		"l_name": "",
+		"team": "IND"
+	},
+	"rus023": {
+		"f_name": "Dmitrii Pugachev",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"rus014": {
+		"f_name": "Kirill Kudryashov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"hkg006": {
+		"f_name": "Wong Justin Matthew",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"kor016": {
+		"f_name": "Taehwan Jang",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"mys019": {
+		"f_name": "Kang Yi Te",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"isr038": {
+		"f_name": "Adam Freedman",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"kor014": {
+		"f_name": "Donghyeon Lee",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"kaz015": {
+		"f_name": "Mikhail Yurikov",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"egy001": {
+		"f_name": "Salman Mohamed Hasan Mahmoud Elgamal",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"sgp011": {
+		"f_name": "Yu Zheyuan",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"isr042": {
+		"f_name": "Yaakov Yedidya Ben Shaul",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"chn055": {
+		"f_name": "Ning Wang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"arm007": {
+		"f_name": "Amaras Nazarians",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"chn035": {
+		"f_name": "Yuchen Wu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"rus015": {
+		"f_name": "Artem Kutuzov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"kor019": {
+		"f_name": "Sihun Jung",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"mac028": {
+		"f_name": "Su Meng Kuan",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"mac025": {
+		"f_name": "Pok Hong Lam ",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"idn008": {
+		"f_name": "Joseph Oliver Lim",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"arm021": {
+		"f_name": "Grigor Tokhyan ",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"twn001": {
+		"f_name": "Yu-Li Wang",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"uzb003": {
+		"f_name": "Akramjonov Saidjon",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"egy005": {
+		"f_name": "Abdelmaged Nour Elsayed ",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"aze030": {
+		"f_name": "Akbar Habibullayev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"sau015": {
+		"f_name": "Uzouf Hassan Baagil",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"kgz023": {
+		"f_name": "Aktan Ruslanov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"arm020": {
+		"f_name": "Gurgen Melikyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"chn028": {
+		"f_name": "Qingyu Shi",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"arm013": {
+		"f_name": "Vahe Grigoryan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"sau004": {
+		"f_name": "Yaser Faisal Balamash",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"pse004": {
+		"f_name": "Mohammed Atalah",
+		"l_name": "",
+		"team": "PSE"
+	},
+	"chn025": {
+		"f_name": "Hongyan Zhao",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"kor038": {
+		"f_name": "Yesung Park",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"egy011": {
+		"f_name": "Ahmad Rabea ",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"phl015": {
+		"f_name": "Joaquin Inigo G. Castillejos",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"mng006": {
+		"f_name": "Bat-Erdene Batsukh",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"ind044": {
+		"f_name": "Mrigankashekhar Shandilya",
+		"l_name": "",
+		"team": "IND"
+	},
+	"aus004": {
+		"f_name": "Dylan Ky-Dang Phung",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"isr026": {
+		"f_name": "Yali Haviv",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"aze005": {
+		"f_name": "Fidan Garayeva",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"kgz019": {
+		"f_name": "Aktan Koichumanov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"bgd007": {
+		"f_name": "Abrar Al Samit",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"mng016": {
+		"f_name": "Javkhlan Seruun",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"tur003": {
+		"f_name": "Ahmet Kaan Avcı",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"tur006": {
+		"f_name": "Kerem Püsküllü",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"mng001": {
+		"f_name": "Jangar Enkhbaatar",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"sgp002": {
+		"f_name": "Tan Si Jie",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"egy020": {
+		"f_name": "Ahmed Fouad",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"rus005": {
+		"f_name": "Ivan Chasovskikh",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"chn023": {
+		"f_name": "Yuxi Zhou",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"aze020": {
+		"f_name": "Emil Jafarov",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"mac002": {
+		"f_name": "Tong Sam Zheng",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"hkg001": {
+		"f_name": "Yeung Man Tsung",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"kor043": {
+		"f_name": "Minsung Kang",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"mys001": {
+		"f_name": "Nereus Ng Wei Bin",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"syr013": {
+		"f_name": "Layth Nmrah",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"irn017": {
+		"f_name": "Sayed Ali Elahi",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"egy007": {
+		"f_name": "Mohamed Elsayed",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"chn036": {
+		"f_name": "Wenjie Hong",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"chn054": {
+		"f_name": "Yuran Xiu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"isr009": {
+		"f_name": "Itay Panhi",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"chn003": {
+		"f_name": "Di Wu",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"kgz020": {
+		"f_name": "Beksultan Almazbekov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"jpn024": {
+		"f_name": "Taisei Suzuki",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"tkm014": {
+		"f_name": "Owezgeldi Annamedov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"chn040": {
+		"f_name": "Qixin Tan",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"phl001": {
+		"f_name": "Kian Colin Ng Chua",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"ind032": {
+		"f_name": "Ishan Joshi",
+		"l_name": "",
+		"team": "IND"
+	},
+	"arm010": {
+		"f_name": "Karen Alkhazyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"irn019": {
+		"f_name": "Kian Amoo Khadem",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"lka008": {
+		"f_name": "H. M. Mihili Nipunika Herath ",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"tur010": {
+		"f_name": "Semih Çağlar",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"aze011": {
+		"f_name": "Ali Aliyev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"tur012": {
+		"f_name": "Erkam Uysal",
+		"l_name": "",
+		"team": "TUR"
+	},
+	"idn009": {
+		"f_name": "Joshua Adrian Cahyono",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"idn014": {
+		"f_name": "Matthew Allan",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"hkg036": {
+		"f_name": "Ip Tsz Oi",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"irn009": {
+		"f_name": "Alireza Samimi",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"jpn032": {
+		"f_name": "Tomoaki Tsuneizumi",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"geo021": {
+		"f_name": "Luka Tvalavadze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"phl024": {
+		"f_name": "Walsh Nico Adrian Lao Letran",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"uzb008": {
+		"f_name": "Yangiboyev Murot",
+		"l_name": "",
+		"team": "UZB"
+	},
+	"mng004": {
+		"f_name": "Belgutei Byambadorj",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"phl005": {
+		"f_name": "Tristan Gabriel Cabinta",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"kgz002": {
+		"f_name": "Kutbol Almanov",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"isr044": {
+		"f_name": "Shmuel Brandt",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"mac013": {
+		"f_name": "Si Nga Xu",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"twn006": {
+		"f_name": "Chung-Chun Huang",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"mys004": {
+		"f_name": "Neo Yong Li",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"aze019": {
+		"f_name": "Mehdi Mammadov",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"sgp003": {
+		"f_name": "Shen Xing Yang",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"isr036": {
+		"f_name": "Ofek Lavi ",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"arm004": {
+		"f_name": "Alen Ghazaryan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"tha007": {
+		"f_name": "Paponthanai Ounsopa",
+		"l_name": "",
+		"team": "THA"
+	},
+	"ind017": {
+		"f_name": "Neha Singirikonda ",
+		"l_name": "",
+		"team": "IND"
+	},
+	"tkm002": {
+		"f_name": "Annageldi Meredov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"phl028": {
+		"f_name": "Neomi Inciso Mendoza",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"jor003": {
+		"f_name": "Faisal Firas Ghanem",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"ind024": {
+		"f_name": "Saarang Srinivasan",
+		"l_name": "",
+		"team": "IND"
+	},
+	"ind001": {
+		"f_name": "Achuthan TM",
+		"l_name": "",
+		"team": "IND"
+	},
+	"rus012": {
+		"f_name": "Danil Klishch",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"mng026": {
+		"f_name": "Anar Orkhonkhuu",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"kor042": {
+		"f_name": "Youngjun Choi",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"vnm001": {
+		"f_name": "Truong Van Quoc Bao",
+		"l_name": "",
+		"team": "VNM"
+	},
+	"jpn042": {
+		"f_name": "Seiji Hirata",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"mng002": {
+		"f_name": "Turkhuu Batbayar",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"tkm003": {
+		"f_name": "Guvanch Batyrov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"mys011": {
+		"f_name": "Lee Hyunseo",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"kgz005": {
+		"f_name": "Beliaev Vladislav",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"mys015": {
+		"f_name": "Loh Kwong Weng",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"jpn013": {
+		"f_name": "Kamimura Sora",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"irn021": {
+		"f_name": "Arian Noorzade",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"aze012": {
+		"f_name": "Omar Musayev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"chn030": {
+		"f_name": "Langrui Qi",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"ind004": {
+		"f_name": "Archit Manas",
+		"l_name": "",
+		"team": "IND"
+	},
+	"mac020": {
+		"f_name": "Zi Yan Wang",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"sgp010": {
+		"f_name": "Brian Lee Jun Siang",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"kgz012": {
+		"f_name": "Abdulaziz Lebiev",
+		"l_name": "",
+		"team": "KGZ"
+	},
+	"kaz011": {
+		"f_name": "Sanzhar Turganbek",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"sgp008": {
+		"f_name": "Yaw Chur Zhe",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"phl034": {
+		"f_name": "Filbert Ephraim So Wu",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"irn003": {
+		"f_name": "Aria Hemmati",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"aus012": {
+		"f_name": "Joshua Chen",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"mac014": {
+		"f_name": "Cheng U Ian",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"kaz014": {
+		"f_name": "Yersultan Abzhami",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"chn039": {
+		"f_name": "Yanxing Chen",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"aze021": {
+		"f_name": "Ali Tagizade",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"syr038": {
+		"f_name": "Ahmed Tumeh",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"geo018": {
+		"f_name": "Irakli Sulamanidze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"chn031": {
+		"f_name": "Ningyuan Yang",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"aus013": {
+		"f_name": "Shangtong Wu",
+		"l_name": "",
+		"team": "AUS"
+	},
+	"jpn057": {
+		"f_name": "Keigo Yoshioka",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"jor011": {
+		"f_name": "Mohammad Samir Badawi",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"mac018": {
+		"f_name": "Sek Hou Chong",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"idn003": {
+		"f_name": "Andrew",
+		"l_name": "",
+		"team": "IDN"
+	},
+	"mng003": {
+		"f_name": "Enerelt D",
+		"l_name": "",
+		"team": "MNG"
+	},
+	"arm008": {
+		"f_name": "Filya Geikyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"kor013": {
+		"f_name": "Donghyeon Lee",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"aze013": {
+		"f_name": "Murad Tariverdiyev",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"kor035": {
+		"f_name": "Minseong Gwak",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"phl003": {
+		"f_name": "Gichelle Miracle Cordero Burwell",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"kaz009": {
+		"f_name": "Zhambyl Maksotov",
+		"l_name": "",
+		"team": "KAZ"
+	},
+	"isr019": {
+		"f_name": "Alon Zolti",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"egy017": {
+		"f_name": "Peter Raafat Gamil Henin",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"phl021": {
+		"f_name": "Enrico Rolando G. Martinez",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"tkm007": {
+		"f_name": "Halymmuhammet Annageldiyev",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"kor002": {
+		"f_name": "Geonpyo Kim",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"bgd004": {
+		"f_name": "Jarif Rahman",
+		"l_name": "",
+		"team": "BGD"
+	},
+	"phl004": {
+		"f_name": "Maxynne Naguit Castro",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"syr024": {
+		"f_name": "Ammar Alphin",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"tha019": {
+		"f_name": "Patiparn Sittinisaisuk",
+		"l_name": "",
+		"team": "THA"
+	},
+	"sgp016": {
+		"f_name": "Huang Ziwen",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"mac036": {
+		"f_name": "Ian Wai Si",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"mac007": {
+		"f_name": "Chi Ha Wong",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"phl012": {
+		"f_name": "Denielle Balangyao Dungala",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"geo001": {
+		"f_name": "Giorgi Nadareishvili",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"irn025": {
+		"f_name": "Yasamin Rajabi Rise",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"syr011": {
+		"f_name": "Ali Alsafkoni",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"ind034": {
+		"f_name": "Karthik Prakash",
+		"l_name": "",
+		"team": "IND"
+	},
+	"arm006": {
+		"f_name": "Tigran Sargsyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"sau006": {
+		"f_name": "Abdulmohsen Hamed Mohammedsaleh",
+		"l_name": "",
+		"team": "SAU"
+	},
+	"mys010": {
+		"f_name": "Yoo Jie Lerk",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"mys003": {
+		"f_name": "Lim Hee Lai",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"mys005": {
+		"f_name": "Dominic Ng Ju Aun",
+		"l_name": "",
+		"team": "MYS"
+	},
+	"tkm006": {
+		"f_name": "Dovlet Mommadov",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"syr028": {
+		"f_name": "Amin Sharba",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"egy002": {
+		"f_name": "Phares Mostafa Saad Abdallah",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"arm002": {
+		"f_name": "Razmik Parzyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"hkg034": {
+		"f_name": "Hsieh Chong Ho",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"irn010": {
+		"f_name": "Alireza Keshavarz",
+		"l_name": "",
+		"team": "IRN"
+	},
+	"tkm010": {
+		"f_name": "Diyar Abdullayev",
+		"l_name": "",
+		"team": "TKM"
+	},
+	"hkg008": {
+		"f_name": "Wong Man Lai Angus",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"kor034": {
+		"f_name": "Hyunseok Hong",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"jpn043": {
+		"f_name": "Koki Fujiya",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"phl031": {
+		"f_name": "Jose Enrique Ramirez",
+		"l_name": "",
+		"team": "PHL"
+	},
+	"jpn039": {
+		"f_name": "Yasuo Hayashi",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"syr025": {
+		"f_name": "Alaa Mohamad",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"sgp005": {
+		"f_name": "Ryan Goh Choon Aik",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"geo012": {
+		"f_name": "Saba Makhniashvili",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"isr015": {
+		"f_name": "Shirli Mushkatin",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"mac005": {
+		"f_name": "Siyang Lin",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"hkg015": {
+		"f_name": "Wong Cheuk Kiu",
+		"l_name": "",
+		"team": "HKG"
+	},
+	"rus018": {
+		"f_name": "Anton Martynov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"ind041": {
+		"f_name": "Shreyas Mohanty",
+		"l_name": "",
+		"team": "IND"
+	},
+	"rus001": {
+		"f_name": "Gimran Abdullin",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"jor019": {
+		"f_name": "Lina Shawqi Alsawafteh",
+		"l_name": "",
+		"team": "JOR"
+	},
+	"jpn046": {
+		"f_name": "Hosojima Ryoga",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"egy015": {
+		"f_name": "Adam Aly",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"jpn002": {
+		"f_name": "Arai Shuto",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"arm014": {
+		"f_name": "Hakob Ayvazyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"rus009": {
+		"f_name": "Daria Grekova",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"arm015": {
+		"f_name": "Davit Yengoyan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"jpn028": {
+		"f_name": "Takikawa Renma",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"arm011": {
+		"f_name": "Mher Aghayan",
+		"l_name": "",
+		"team": "ARM"
+	},
+	"mac030": {
+		"f_name": "Weng Tong To ",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"lka004": {
+		"f_name": "Aneegha Thithiesha Mahabaduge",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"twn008": {
+		"f_name": "Che Liu",
+		"l_name": "",
+		"team": "TWN"
+	},
+	"sgp006": {
+		"f_name": "Joel Au Heng Hoi",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"isr030": {
+		"f_name": "Ivri Hagi Teper",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"egy028": {
+		"f_name": "Abdelrahman Hossam",
+		"l_name": "",
+		"team": "EGY"
+	},
+	"chn019": {
+		"f_name": "Guohao Jing",
+		"l_name": "",
+		"team": "CHN"
+	},
+	"aze017": {
+		"f_name": "Huseyn Mammadli",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"jpn052": {
+		"f_name": "Tomoki Morooka",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"isr032": {
+		"f_name": "Omer Drori",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"aze025": {
+		"f_name": "Leyla Hajizada",
+		"l_name": "",
+		"team": "AZE"
+	},
+	"sgp018": {
+		"f_name": "Shen Zihan",
+		"l_name": "",
+		"team": "SGP"
+	},
+	"jpn012": {
+		"f_name": "Junsei Kato",
+		"l_name": "",
+		"team": "JPN"
+	},
+	"ind027": {
+		"f_name": "Vishesh Saraswat",
+		"l_name": "",
+		"team": "IND"
+	},
+	"geo005": {
+		"f_name": "George Chkhaidze",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"syr018": {
+		"f_name": "Mohammad Moufid Mahmalat",
+		"l_name": "",
+		"team": "SYR"
+	},
+	"rus013": {
+		"f_name": "Ilia Kondakov",
+		"l_name": "",
+		"team": "RUS"
+	},
+	"kor022": {
+		"f_name": "Daniel Choi",
+		"l_name": "",
+		"team": "KOR"
+	},
+	"tha008": {
+		"f_name": "Warissara Booranamaitree",
+		"l_name": "",
+		"team": "THA"
+	},
+	"ind048": {
+		"f_name": "Chanakya Thirumala Setty",
+		"l_name": "",
+		"team": "IND"
+	},
+	"geo004": {
+		"f_name": "Nika Tamliani",
+		"l_name": "",
+		"team": "GEO"
+	},
+	"isr013": {
+		"f_name": "Itamar Nir",
+		"l_name": "",
+		"team": "ISR"
+	},
+	"lka009": {
+		"f_name": "Shithila Mahabaduge",
+		"l_name": "",
+		"team": "LKA"
+	},
+	"mac035": {
+		"f_name": "Hok Weng Leong",
+		"l_name": "",
+		"team": "MAC"
+	},
+	"hkg030": {
+		"f_name": "Ng Pui Hei",
+		"l_name": "",
+		"team": "HKG"
+	}
+}

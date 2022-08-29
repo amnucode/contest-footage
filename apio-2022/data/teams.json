@@ -1,0 +1,104 @@
+{
+	"BGD": {
+		"name": "Bangladesh"
+	},
+	"TWN": {
+		"name": "Taiwan"
+	},
+	"PHL": {
+		"name": "Philippines"
+	},
+	"LKA": {
+		"name": "Sri lanka"
+	},
+	"MNG": {
+		"name": "Mongolia"
+	},
+	"EGY": {
+		"name": "Egypt"
+	},
+	"MAC": {
+		"name": "Macau"
+	},
+	"HKG": {
+		"name": "Hong kong"
+	},
+	"ARM": {
+		"name": "Armania"
+	},
+	"MYS": {
+		"name": "Malaysia"
+	},
+	"JOR": {
+		"name": "Jordan"
+	},
+	"IDN": {
+		"name": "Indonesia"
+	},
+	"KGZ": {
+		"name": "Kyrgyzstan"
+	},
+	"TKM": {
+		"name": "Turkmenistan"
+	},
+	"THA": {
+		"name": "Thailand"
+	},
+	"SAU": {
+		"name": "Saudi arabia"
+	},
+	"SGP": {
+		"name": "Singapore"
+	},
+	"ISR": {
+		"name": "Israel"
+	},
+	"UZB": {
+		"name": "Uzbekistan"
+	},
+	"AZE": {
+		"name": "Azerbaijan"
+	},
+	"KAZ": {
+		"name": "Kazakhstan"
+	},
+	"IND": {
+		"name": "India"
+	},
+	"AUS": {
+		"name": "Australia"
+	},
+	"SYR": {
+		"name": "Syria"
+	},
+	"PSE": {
+		"name": "Palestine"
+	},
+	"JPN": {
+		"name": "Japan"
+	},
+	"CHN": {
+		"name": "China"
+	},
+	"GEO": {
+		"name": "Georgia"
+	},
+	"RUS": {
+		"name": "Russia"
+	},
+	"NZL": {
+		"name": "New zealand"
+	},
+	"VNM": {
+		"name": "Vietnam"
+	},
+	"TUR": {
+		"name": "Turkey"
+	},
+	"IRN": {
+		"name": "Iran"
+	},
+	"KOR": {
+		"name": "Korea"
+	}
+}
