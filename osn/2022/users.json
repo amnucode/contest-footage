@@ -1,0 +1,502 @@
+{
+  "090101060701p": {
+    "name": "Nathan Allan",
+    "school": "SMP Kanisius Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "090701007543u": {
+    "name": "Benedict Presley",
+    "school": "SMA Sutomo 1 Medan",
+    "team": "Sumatera Utara"
+  },
+  "090211005902p": {
+    "name": "Aufan Ahmad Mumtaza",
+    "school": "SMP Al-Irsyad Satya Bandung",
+    "team": "Jawa Barat"
+  },
+  "090103000828u": {
+    "name": "Nathan Keith Poernama",
+    "school": "SMAK 1 BPK PENABUR Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "090315000645u": {
+    "name": "Roberto Eugenio Sugiarto",
+    "school": "SMAN 1 Wonosobo",
+    "team": "Jawa Tengah"
+  },
+  "090301024426u": {
+    "name": "Galih Nur Rizqy",
+    "school": "SMA Semesta BBS Semarang",
+    "team": "Jawa Tengah"
+  },
+  "090301024425u": {
+    "name": "Daffa Rayhan Ananda",
+    "school": "SMA Semesta BBS Semarang",
+    "team": "Jawa Tengah"
+  },
+  "091901009141u": {
+    "name": "Joceline Araki",
+    "school": "SMAK Rajawali Makassar",
+    "team": "Sulawesi Selatan"
+  },
+  "090701007542u": {
+    "name": "Anders Willard Leo",
+    "school": "SMA Sutomo 1 Medan",
+    "team": "Sumatera Utara"
+  },
+  "091001006028u": {
+    "name": "Andreas Timothy",
+    "school": "SMAK Bina Kasih Jambi",
+    "team": "Jambi"
+  },
+  "090401000143u": {
+    "name": "Radhya Cahya Kusuma",
+    "school": "SMAN 3 Yogyakarta",
+    "team": "D. I. Yogyakarta"
+  },
+  "093004003629u": {
+    "name": "Muhamad Nabil Alhanif",
+    "school": "SMA Kharisma Bangsa Tangerang Selatan",
+    "team": "Banten"
+  },
+  "091001000337u": {
+    "name": "Michael Ignasius",
+    "school": "SMAN 3 Jambi",
+    "team": "Jambi"
+  },
+  "090201003915u": {
+    "name": "Yose Yehezkiel Maranata",
+    "school": "SMAK 3 BPK PENABUR Bandung",
+    "team": "Jawa Barat"
+  },
+  "090502100204u": {
+    "name": "Leontina Maydeline Davidson",
+    "school": "SMA PJ Global School Malang",
+    "team": "Jawa Timur"
+  },
+  "090101006044u": {
+    "name": "Vincent Gaudeo Lie",
+    "school": "SMA Kanisius Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "090501007633u": {
+    "name": "Goodwill Bryan Lion",
+    "school": "SMAK St. Louis 1 Surabaya",
+    "team": "Jawa Timur"
+  },
+  "090502050645u": {
+    "name": "Raihan Akbar",
+    "school": "MAN 2 Kota Malang",
+    "team": "Jawa Timur"
+  },
+  "090402005629u": {
+    "name": "Danar Abiyoga Prakosa",
+    "school": "SMA Kesatuan Bangsa Bantul",
+    "team": "D. I. Yogyakarta"
+  },
+  "090105015542u": {
+    "name": "Mochammad Nadhif Arfa Rayyan",
+    "school": "SMAN Unggulan M. H. Thamrin Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "090201008034u": {
+    "name": "Muhammad Aqila",
+    "school": "SMA Pribadi Bandung",
+    "team": "Jawa Barat"
+  },
+  "090312022144u": {
+    "name": "Muhammad Adi Brata Tata Negoro Saputra",
+    "school": "SMA Taruna Nusantara Magelang",
+    "team": "Jawa Tengah"
+  },
+  "090304050241u": {
+    "name": "M. Arvin Wijayanto",
+    "school": "MAN Insan Cendekia Pekalongan",
+    "team": "Jawa Tengah"
+  },
+  "093004017442u": {
+    "name": "Muhammad Zendy Zainuddin",
+    "school": "MAN Insan Cendekia Serpong",
+    "team": "Banten"
+  },
+  "090103023201u": {
+    "name": "Nobel Suhendra",
+    "school": "SMP NationalHigh Jakarta School",
+    "team": "DKI Jakarta"
+  },
+  "090201003734u": {
+    "name": "Kenneth Feivel Johannsen Hosannah",
+    "school": "SMAK 1 BPK PENABUR Bandung",
+    "team": "Jawa Barat"
+  },
+  "090910000441u": {
+    "name": "Danniel",
+    "school": "SMAN 1 Tualang",
+    "team": "Riau"
+  },
+  "090101006041u": {
+    "name": "Jeremy Philip Lembong",
+    "school": "SMA Kanisius Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "090103000824u": {
+    "name": "Benedikt Rio Widjaja",
+    "school": "SMAK 1 BPK PENABUR Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "090901010243u": {
+    "name": "Muhammad Naufal Muzaki",
+    "school": "MAN 2 Pekanbaru",
+    "team": "Riau"
+  },
+  "090701021623u": {
+    "name": "Evelyn",
+    "school": "SMA Methodist 3 Medan",
+    "team": "Sumatera Utara"
+  },
+  "090201003733u": {
+    "name": "Jefferson Abraham Dermawan",
+    "school": "SMAK 1 BPK PENABUR Bandung",
+    "team": "Jawa Barat"
+  },
+  "090501011432u": {
+    "name": "Jansen Ken Pegrasio",
+    "school": "SMAK Petra 2 Surabaya",
+    "team": "Jawa Timur"
+  },
+  "090304050242u": {
+    "name": "Muhammad Faqih Husain",
+    "school": "MAN Insan Cendekia Pekalongan",
+    "team": "Jawa Tengah"
+  },
+  "090104007744u": {
+    "name": "Kayna Mufidah",
+    "school": "SMAN 28 Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "090301028501p": {
+    "name": "Andreas Surya Tanjung",
+    "school": "SMP PL Domenico Savio Semarang",
+    "team": "Jawa Tengah"
+  },
+  "090901010242u": {
+    "name": "Muhammad Arkan Anzuye",
+    "school": "MAN 2 Pekanbaru",
+    "team": "Riau"
+  },
+  "090324000543u": {
+    "name": "Muhammad Haidar",
+    "school": "SMAN 1 Kudus",
+    "team": "Jawa Tengah"
+  },
+  "090102005709u": {
+    "name": "Filbert Aurelian Tjiaranata",
+    "school": "SMA Permai Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "090204000142u": {
+    "name": "Fathan Mubina",
+    "school": "SMAN 1 Bogor",
+    "team": "Jawa Barat"
+  },
+  "090501000106p": {
+    "name": "Rayyan Aqsha Raditya",
+    "school": "SMPN 1 Surabaya",
+    "team": "Jawa Timur"
+  },
+  "090206001538u": {
+    "name": "Jonathan Irvin Susanto",
+    "school": "SMAK 1 BPK PENABUR Cirebon",
+    "team": "Jawa Barat"
+  },
+  "090532000144u": {
+    "name": "Muhammad Lanang Zalkifla Harits",
+    "school": "SMAN 1 Situbondo",
+    "team": "Jawa Timur"
+  },
+  "092201001145u": {
+    "name": "Nyoman Wiprayanka",
+    "school": "SMAN 4 Denpasar",
+    "team": "Bali"
+  },
+  "090714000239u": {
+    "name": "Niko Samuel Simanjuntak",
+    "school": "SMAN 2 Kisaran",
+    "team": "Sumatera Utara"
+  },
+  "090401000140u": {
+    "name": "Atila Ghulwani Altamis",
+    "school": "SMAN 3 Yogyakarta",
+    "team": "D. I. Yogyakarta"
+  },
+  "091901009143u": {
+    "name": "Takeshi Henderson Herman",
+    "school": "SMAK Rajawali Makassar",
+    "team": "Sulawesi Selatan"
+  },
+  "090206003501p": {
+    "name": "Vincent Kristian Waluyo",
+    "school": "SMPK 1 BPK PENABUR Cirebon",
+    "team": "Jawa Barat"
+  },
+  "090501018232u": {
+    "name": "Stella Ling Raharjo",
+    "school": "SMA Mawar Sharon Christian School",
+    "team": "Jawa Timur"
+  },
+  "093005003344u": {
+    "name": "Nashiruddin Akram",
+    "school": "SMA Islam Nurul Fikri Serang",
+    "team": "Banten"
+  },
+  "090201000240u": {
+    "name": "Adiel Rum",
+    "school": "SMAN 2 Bandung",
+    "team": "Jawa Barat"
+  },
+  "092101000142u": {
+    "name": "Vincent Valentino Oei",
+    "school": "SMAN 1 Ambon",
+    "team": "Maluku"
+  },
+  "090502050642u": {
+    "name": "Ahmad Wasis Shofiyulloh",
+    "school": "MAN 2 Kota Malang",
+    "team": "Jawa Timur"
+  },
+  "093008000936u": {
+    "name": "Vincent Wesley Liem",
+    "school": "SMAK BPK PENABUR Gading Serpong",
+    "team": "Banten"
+  },
+  "090901010144u": {
+    "name": "Ranashahira Reztaputri",
+    "school": "MAN 1 Pekanbaru",
+    "team": "Riau"
+  },
+  "090601003728u": {
+    "name": "Siti Shofi Nadhifa",
+    "school": "SMA Fatih Bilingual School Banda Aceh",
+    "team": "Aceh"
+  },
+  "090501029803p": {
+    "name": "Christopher Jason Sidharta",
+    "school": "SMPK Petra 3 Surabaya",
+    "team": "Jawa Timur"
+  },
+  "092206000141u": {
+    "name": "Devito Sanjaya Putra",
+    "school": "SMAN 1 Singaraja",
+    "team": "Bali"
+  },
+  "090104031401p": {
+    "name": "Sandhya Mahendra Dhaneswara",
+    "school": "SMP Labschool Kebayoran Jakarta",
+    "team": "DKI Jakarta"
+  },
+  "092301000945u": {
+    "name": "Randi Palguna Artayasa",
+    "school": "SMAN 3 Mataram",
+    "team": "Nusa Tenggara Barat"
+  },
+  "090901004735u": {
+    "name": "Kimi Jenson Tjan",
+    "school": "SMA Darma Yudha Pekanbaru",
+    "team": "Riau"
+  },
+  "090224001008u": {
+    "name": "Fauzan Maulandhika",
+    "school": "SMAN 1 Kabandungan",
+    "team": "Jawa Barat"
+  },
+  "091101013142u": {
+    "name": "Devanrio Geofendra",
+    "school": "SMA Ignatius Global School Palembang",
+    "team": "Sumatera Selatan"
+  },
+  "093004002001u": {
+    "name": "Maryo Marcelino",
+    "school": "SMA Saint John's Catholic School",
+    "team": "Banten"
+  },
+  "090306000335u": {
+    "name": "Auladi Fachry Assidiqi",
+    "school": "SMAN 3 Magelang",
+    "team": "Jawa Tengah"
+  },
+  "092206000144u": {
+    "name": "Komang David Dananjaya Suartana",
+    "school": "SMAN 1 Singaraja",
+    "team": "Bali"
+  },
+  "090906002535u": {
+    "name": "Athar Bakhtiar Aziz",
+    "school": "SMA Cendana Duri",
+    "team": "Riau"
+  },
+  "090514000144u": {
+    "name": "Moch. Amil Labib Makarim",
+    "school": "SMAN 1 Bojonegoro",
+    "team": "Jawa Timur"
+  },
+  "090701007839u": {
+    "name": "Frolentika",
+    "school": "SMA Wr. Supratman 2 Medan",
+    "team": "Sumatera Utara"
+  },
+  "090312022145u": {
+    "name": "Muhammad Hamiz Ghani Ayusha",
+    "school": "SMA Taruna Nusantara Magelang",
+    "team": "Jawa Tengah"
+  },
+  "091504004331u": {
+    "name": "Muhammad Irfan Wira Kusuma",
+    "school": "SMAN Banua Kalimantan Selatan",
+    "team": "Kalimantan Selatan"
+  },
+  "092201001143u": {
+    "name": "Joe Mathew Rusli",
+    "school": "SMAN 4 Denpasar",
+    "team": "Bali"
+  },
+  "090901000842u": {
+    "name": "David Neilleen Irvinne",
+    "school": "SMAN 8 Pekanbaru",
+    "team": "Riau"
+  },
+  "091501002927u": {
+    "name": "Stefanus Derren Kurniawan",
+    "school": "SMAK Kanaan Banjarmasin",
+    "team": "Kalimantan Selatan"
+  },
+  "092201003001u": {
+    "name": "Satria Edafausta Tjiaman",
+    "school": "SMA Dyatmika Denpasar",
+    "team": "Bali"
+  },
+  "091301001541u": {
+    "name": "Calson Aryaputra",
+    "school": "SMAK Santu Petrus Pontianak",
+    "team": "Kalimantan Barat"
+  },
+  "093008000934u": {
+    "name": "Michael Ballard Isaiah Silaen",
+    "school": "SMAK BPK PENABUR Gading Serpong",
+    "team": "Banten"
+  },
+  "091701003530u": {
+    "name": "Benedict Dustin Tanex",
+    "school": "SMAK Eben Haezar Manado",
+    "team": "Sulawesi Utara"
+  },
+  "091602000142u": {
+    "name": "Utandra Nur Ahmad Jais",
+    "school": "SMAN 1 Balikpapan",
+    "team": "Kalimantan Timur"
+  },
+  "092905000742u": {
+    "name": "Muh. Rusmin Nurwadin",
+    "school": "MAN Insan Cendekia Gorontalo",
+    "team": "Gorontalo"
+  },
+  "093004017440u": {
+    "name": "Hafiz Fauzi",
+    "school": "MAN Insan Cendekia Serpong",
+    "team": "Banten"
+  },
+  "090812020443u": {
+    "name": "Luqmanul Hakim",
+    "school": "MAN Insan Cendekia Padang Pariaman",
+    "team": "Sumatera Barat"
+  },
+  "091801003535u": {
+    "name": "Muh. Farizzi",
+    "school": "SMA Al-Azhar Mandiri Palu",
+    "team": "Sulawesi Tengah"
+  },
+  "091201000219u": {
+    "name": "Nevin Thang",
+    "school": "SMAK BPK PENABUR Bandar Lampung",
+    "team": "Lampung"
+  },
+  "093004003630u": {
+    "name": "Muhammad Azraf Putra Repol",
+    "school": "SMA Kharisma Bangsa Tangerang Selatan",
+    "team": "Banten"
+  },
+  "092501000842u": {
+    "name": "Raenault Maxine Salle Bandaso",
+    "school": "SMAN 4 Jayapura",
+    "team": "Papua"
+  },
+  "093203000341u": {
+    "name": "Ahmad Dzaky",
+    "school": "SMAN 3 Polewali",
+    "team": "Sulawesi Barat"
+  },
+  "091301000141u": {
+    "name": "Adha Rizki Khawa Rizmi",
+    "school": "SMAN 1 Pontianak",
+    "team": "Kalimantan Barat"
+  },
+  "092807000225u": {
+    "name": "Muhammad Rafi Alfirdaus",
+    "school": "SMAN 1 Kelapa Kampit",
+    "team": "Kep. Bangka Belitung"
+  },
+  "091401002240u": {
+    "name": "Ahmad Rizqi",
+    "school": "MAN Kota Palangka Raya",
+    "team": "Kalimantan Tengah"
+  },
+  "093102011544u": {
+    "name": "Khalit Putra Afana",
+    "school": "MAN Insan Cendekia Batam",
+    "team": "Kep. Riau"
+  },
+  "091106053344u": {
+    "name": "Muhammad Ilham Syafik",
+    "school": "MAN Insan Cendekia Ogan Komering Ilir",
+    "team": "Sumatera Selatan"
+  },
+  "090901006501p": {
+    "name": "Franklin Filbert Irwan",
+    "school": "SMP Witama Nasional Plus Pekanbaru",
+    "team": "Riau"
+  },
+  "092601000544u": {
+    "name": "Nasya Kenzia Syaira Alifa",
+    "school": "SMAN 5 Bengkulu",
+    "team": "Bengkulu"
+  },
+  "099102000243u": {
+    "name": "Hetty Sarlini",
+    "school": "Sekolah Indonesia Kota Kinabalu Tingkat SMA",
+    "team": "Luar Negeri"
+  },
+  "092414000144u": {
+    "name": "Paula Vebrianti Kewa Payon Riantobi",
+    "school": "SMAN 1 Nubatukan",
+    "team": "Nusa Tenggara Timur"
+  },
+  "092704000340u": {
+    "name": "Gabriel Nathanael Worang",
+    "school": "SMAN 1 Halmahera Utara",
+    "team": "Maluku Utara"
+  },
+  "093302001025u": {
+    "name": "Angelica Audeska Sali",
+    "school": "SMA YPPK Agustinus Sorong",
+    "team": "Papua Barat"
+  },
+  "092001003645u": {
+    "name": "Nabil Hakim Alfikri",
+    "school": "MAN Insan Cendekia Kendari",
+    "team": "Sulawesi Tenggara"
+  },
+  "093403100234u": {
+    "name": "Aulia Nakaeisha",
+    "school": "SMA IT Ibnu Sina Boarding School Nunukan",
+    "team": "Kalimantan Utara"
+  }
+}
