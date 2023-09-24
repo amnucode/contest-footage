@@ -5,12 +5,12 @@ const color = [
 ];
 
 const available = [
-  '?2021',
-  '?2020'
+  '?2023'
 ];
 
 const redirect = [
-  '?2023'
+  '?2021',
+  '?2020'
 ];
 
 let year = '';
@@ -32,10 +32,10 @@ const getData = async (url) => {
 
 const initData = async () => {
   year = location.search;
-  if (redirect.includes(year)) window.location.href = `/osn/index.html${year}`;
+  if (redirect.includes(year)) window.location.href = `/ksn/index.html${year}`;
   if (!available.includes(year)) year = available[0];
   year = year.slice(1);
-  document.getElementById('title').innerHTML = `KSN ${year} Contest Footage`;
+  document.getElementById('title').innerHTML = `OSN ${year} Contest Footage`;
   history = await getData(`${year}/history.json`);
   users = await getData(`${year}/users.json`);
   const config = await getData(`${year}/config.json`);

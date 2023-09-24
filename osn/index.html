@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>OSN | Contest Footage</title>
+  <meta name="author" content="AMnu">
+  <meta name="description" content="dynamic scoreboard of OSN">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon.ico">
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="head">
+    <div class="title" id="title">Data Not Found</div>
+    <div class="subtitle" id="time"></div>
+    <input type="range" id="control" min="0" max="1" onInput="jump()">
+    <div class="container">
+      <div class="button" id="play" onClick="play()">Play</div>
+      <div class="button" id="show" onClick="show()">Hide Medal</div>
+      <select id="rank" onChange="render()" autoComplete="off">
+        <option value="0">Global</option>
+        <option value="1">Day 1</option>
+        <option value="2">Day 2</option>
+      </select>
+    </div>
+  </div>
+  <div class="body">
+    <table id="scoreboard"></table>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

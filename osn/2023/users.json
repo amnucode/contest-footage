@@ -1,0 +1,502 @@
+{
+	"gunadi": {
+		"name": "Gunadi Gani",
+		"school": "SMAK 1 BPK PENABUR Jakarta",
+		"team": "DKI Jakarta"
+	},
+	"palpale": {
+		"name": "Hanif Achdan Pietoyo",
+		"school": "SMA Kesatuan Bangsa Bantul",
+		"team": "D. I. Yogyakarta"
+	},
+	"KitasCraft": {
+		"name": "I Nyoman Narayan Kitas Utama",
+		"school": "SMAN 4 Denpasar",
+		"team": "Bali"
+	},
+	"MikiMiku": {
+		"name": "Jonathan Irvin Susanto",
+		"school": "SMAK 1 BPK PENABUR Cirebon",
+		"team": "Jawa Barat"
+	},
+	"matthewhutama": {
+		"name": "Matthew Hutama Pramana",
+		"school": "SMP PL Domenico Savio Semarang",
+		"team": "Jawa Tengah"
+	},
+	"kenpegrasio": {
+		"name": "Jansen Ken Pegrasio",
+		"school": "SMAK Petra 2 Surabaya",
+		"team": "Jawa Timur"
+	},
+	"Kloce": {
+		"name": "Kloce Paul William Saragih",
+		"school": "SMA Budi Mulia Pematangsiantar",
+		"team": "Sumatera Utara"
+	},
+	"NafisMath": {
+		"name": "Muhammad Nafis Habibi",
+		"school": "SMA Al-Irsyad Purwokerto",
+		"team": "Jawa Tengah"
+	},
+	"vinren": {
+		"name": "Vincent Valentino Oei",
+		"school": "SMAN 1 Ambon",
+		"team": "Maluku"
+	},
+	"Sentreb": {
+		"name": "Mochammad Fathirrazi Nafisandy",
+		"school": "SMAN Unggulan M. H. Thamrin Jakarta",
+		"team": "DKI Jakarta"
+	},
+	"faeilana": {
+		"name": "Fae Ilana Negoro",
+		"school": "SMA Islam Al-Azhar 3 Jakarta",
+		"team": "DKI Jakarta"
+	},
+	"Ackhava": {
+		"name": "Ackhava Adam Malonda",
+		"school": "SMP Cendekia Harapan",
+		"team": "Bali"
+	},
+	"Nust": {
+		"name": "Keenan Christopher Adimulia",
+		"school": "SMAK 1 BPK PENABUR Jakarta",
+		"team": "DKI Jakarta"
+	},
+	"lanangz": {
+		"name": "Muhammad Lanang Zalkifla Harits",
+		"school": "SMAN 1 Situbondo",
+		"team": "Jawa Timur"
+	},
+	"Seeplusplus": {
+		"name": "Faiz Rizki Ramadhan",
+		"school": "MAN Insan Cendekia Serpong",
+		"team": "Banten"
+	},
+	"worthytacos": {
+		"name": "Kevin Cornellius Widjaja",
+		"school": "SMA Katolik Ricci",
+		"team": "DKI Jakarta"
+	},
+	"nobelsu": {
+		"name": "Nobel Suhendra",
+		"school": "SMA NationalHigh Jakarta School",
+		"team": "DKI Jakarta"
+	},
+	"Jesslyn_nathania19": {
+		"name": "Nathania Jesslyn",
+		"school": "SMP Santa Maria Cirebon",
+		"team": "Jawa Barat"
+	},
+	"Jason.Sidharta123": {
+		"name": "Christopher Jason Sidharta",
+		"school": "SMAK Petra 2 Surabaya",
+		"team": "Jawa Timur"
+	},
+	"Nothing123": {
+		"name": "Vergeo Valentino Gunawan",
+		"school": "SMA Ignatius Global School Palembang",
+		"team": "Sumatera Selatan"
+	},
+	"cly0402": {
+		"name": "Clayton Luther Young",
+		"school": "SMA Pelangi Kasih Jakarta",
+		"team": "DKI Jakarta"
+	},
+	"VincentK": {
+		"name": "Vincent Kristian Waluyo",
+		"school": "SMPK 1 BPK PENABUR Cirebon",
+		"team": "Jawa Barat"
+	},
+	"yusuf12360": {
+		"name": "Sultan Afif Kanz",
+		"school": "SMP Quran Asy-Syahid Bogor",
+		"team": "Jawa Barat"
+	},
+	"davinpwk": {
+		"name": "Davin Pandya Wala Khotob",
+		"school": "SMA Pradita Dirgantara Boyolali",
+		"team": "Jawa Tengah"
+	},
+	"evanrusly": {
+		"name": "Rainer Evan Rusly",
+		"school": "SMP Kanisius Jakarta",
+		"team": "DKI Jakarta"
+	},
+	"William40": {
+		"name": "William Notowibowo",
+		"school": "SMA Karangturi Semarang",
+		"team": "Jawa Tengah"
+	},
+	"O_O": {
+		"name": "Bermulya Anugrah Putra",
+		"school": "MAN Insan Cendekia Padang Pariaman",
+		"team": "Sumatera Barat"
+	},
+	"Troll321": {
+		"name": "Atila Ghulwani Altamis",
+		"school": "SMAN 3 Yogyakarta",
+		"team": "D. I. Yogyakarta"
+	},
+	"Michael_H": {
+		"name": "Michael Hartono",
+		"school": "SMAK St. Louis 1 Surabaya",
+		"team": "Jawa Timur"
+	},
+	"fathmubina": {
+		"name": "Fathan Mubina",
+		"school": "SMAN 1 Bogor",
+		"team": "Jawa Barat"
+	},
+	"bananade": {
+		"name": "Franklin Filbert Irwan",
+		"school": "SMP Witama Nasional Plus Pekanbaru",
+		"team": "Riau"
+	},
+	"kayna": {
+		"name": "Kayna Mufidah",
+		"school": "SMAN 28 Jakarta",
+		"team": "DKI Jakarta"
+	},
+	"Zilet": {
+		"name": "Christivan Komah",
+		"school": "SMA Ignatius Global School Palembang",
+		"team": "Sumatera Selatan"
+	},
+	"Hyroft": {
+		"name": "Hayyan Ahmad Al Ghifary",
+		"school": "MAN Insan Cendekia Serpong",
+		"team": "Banten"
+	},
+	"devitoSans": {
+		"name": "Devito Sanjaya Putra",
+		"school": "SMAN 1 Singaraja",
+		"team": "Bali"
+	},
+	"Anand07": {
+		"name": "I Ketut Anand Amertha",
+		"school": "SMAN 3 Denpasar",
+		"team": "Bali"
+	},
+	"Sokuzo21": {
+		"name": "Muhammad Daffa Daneswara",
+		"school": "SMAN 1 Klaten",
+		"team": "Jawa Tengah"
+	},
+	"Abel_Dean": {
+		"name": "Abel Dean Eberhard",
+		"school": "SMAK Petra 3 Surabaya",
+		"team": "Jawa Timur"
+	},
+	"MuhammadFakhryZaki": {
+		"name": "Muhammad Fakhry Zaki",
+		"school": "SMAIT Al-Kahfi Bogor",
+		"team": "Jawa Barat"
+	},
+	"Imperion": {
+		"name": "Jefferson Abraham Dermawan",
+		"school": "SMAK 1 BPK PENABUR Bandung",
+		"team": "Jawa Barat"
+	},
+	"Lenvil": {
+		"name": "Leroy Ben Orvill",
+		"school": "SMA Kusuma Bangsa Palembang",
+		"team": "Sumatera Selatan"
+	},
+	"harzuqi": {
+		"name": "Azzam Harzuqi",
+		"school": "SMA Al-Irsyad Purwokerto",
+		"team": "Jawa Tengah"
+	},
+	"hamizghanii1706": {
+		"name": "Muhammad Hamiz Ghani Ayusha",
+		"school": "SMA Islam Al-Azhar BSD",
+		"team": "Banten"
+	},
+	"andrewM": {
+		"name": "Andrew Matthian",
+		"school": "SMA Sutomo 1 Medan",
+		"team": "Sumatera Utara"
+	},
+	"Elvin_Terriano_Hadi": {
+		"name": "Elvin Terriano Hadi",
+		"school": "SMA PL Van Lith Muntilan",
+		"team": "Jawa Tengah"
+	},
+	"inizaza": {
+		"name": "Zakary Nareswara Tulus Sinudewangga Hatmadipura",
+		"school": "SMA Santo Yosef Pangkal Pinang",
+		"team": "Kep. Bangka Belitung"
+	},
+	"Lucia": {
+		"name": "Lucia Giovani",
+		"school": "SMA Kusuma Bangsa Palembang",
+		"team": "Sumatera Selatan"
+	},
+	"DhimasPutra": {
+		"name": "Dhimas Putra Sulistio",
+		"school": "MAN 2 Pekanbaru",
+		"team": "Riau"
+	},
+	"akram1717": {
+		"name": "Nashiruddin Akram",
+		"school": "SMA Islam Nurul Fikri Serang",
+		"team": "Banten"
+	},
+	"AdrielJ": {
+		"name": "Adriel Jansen Siahaya",
+		"school": "SMA Zion Makassar",
+		"team": "Sulawesi Selatan"
+	},
+	"glenaoi": {
+		"name": "Stanislaus Harglen Utama Sitompul",
+		"school": "SMA Wardaya Jakarta",
+		"team": "DKI Jakarta"
+	},
+	"CodeKev": {
+		"name": "Clement Kevin Tanadi",
+		"school": "SMA Santa Maria 1 Cirebon",
+		"team": "Jawa Barat"
+	},
+	"EarlyOcean": {
+		"name": "Dhimas Early Oceandy",
+		"school": "SMAN 1 Purwokerto",
+		"team": "Jawa Tengah"
+	},
+	"Satria11": {
+		"name": "Satria Edafausta Tjiaman",
+		"school": "SMA Dyatmika Denpasar",
+		"team": "Bali"
+	},
+	"Fon1as": {
+		"name": "Fatih Naufal Habibillah",
+		"school": "SMAN 1 Metro",
+		"team": "Lampung"
+	},
+	"ffalih_": {
+		"name": "Faishal Falih",
+		"school": "SMA Semesta BBS Semarang",
+		"team": "Jawa Tengah"
+	},
+	"lalaiing": {
+		"name": "Stella Ling Raharjo",
+		"school": "SMA Mawar Sharon Christian School",
+		"team": "Jawa Timur"
+	},
+	"syfa": {
+		"name": "Syauqi Faza",
+		"school": "SMP Luqman Al-Hakim Surabaya",
+		"team": "Jawa Timur"
+	},
+	"Bearylover": {
+		"name": "Nathaniel Farrell Irawan",
+		"school": "SMAK BPK PENABUR Gading Serpong",
+		"team": "Banten"
+	},
+	"JavierEW": {
+		"name": "Javier Enrique Wong",
+		"school": "SMA Sutomo 1 Medan",
+		"team": "Sumatera Utara"
+	},
+	"Mitty_123": {
+		"name": "Muhammad Fatih Irkham Mauludi",
+		"school": "SMAN 3 Bogor",
+		"team": "Jawa Barat"
+	},
+	"ExPrime_": {
+		"name": "Sidney C. J. Karundeng",
+		"school": "SMAK Eben Haezar Manado",
+		"team": "Sulawesi Utara"
+	},
+	"Raoul": {
+		"name": "Raoul Corrinthian",
+		"school": "SMAK St. Louis 1 Surabaya",
+		"team": "Jawa Timur"
+	},
+	"HannanAfif": {
+		"name": "Hannan Afif Darmawan",
+		"school": "MAN 2 Pekanbaru",
+		"team": "Riau"
+	},
+	"Leapofod": {
+		"name": "Ittihadi Ramadhan",
+		"school": "SMAN 1 Padang",
+		"team": "Sumatera Barat"
+	},
+	"eur": {
+		"name": "Annabel Kayla Talitha",
+		"school": "SMAK Petra 4 Sidoarjo",
+		"team": "Jawa Timur"
+	},
+	"felejunelus": {
+		"name": "Felesia Junelus",
+		"school": "SMAN 1 Tualang",
+		"team": "Riau"
+	},
+	"dhapin": {
+		"name": "Muhammad Dhafin Al Khairy",
+		"school": "MAN 2 Samarinda",
+		"team": "Kalimantan Timur"
+	},
+	"Frolentika": {
+		"name": "Frolentika",
+		"school": "SMA Wr. Supratman 2 Medan",
+		"team": "Sumatera Utara"
+	},
+	"arifkhalfani": {
+		"name": "Muhammad Arif Khalfani Ismail",
+		"school": "SMA Fatih Bilingual School Banda Aceh",
+		"team": "Aceh"
+	},
+	"amartaida": {
+		"name": "Mohamad Ashraf Malabali",
+		"school": "MAN Insan Cendekia Gorontalo",
+		"team": "Gorontalo"
+	},
+	"Fid_spin": {
+		"name": "Muhammad Hawari Tsabit",
+		"school": "SMAN 2 Bengkulu",
+		"team": "Bengkulu"
+	},
+	"just_06": {
+		"name": "Justin Stevenson Theodorus",
+		"school": "SMAK Harapan Bangsa Balikpapan",
+		"team": "Kalimantan Timur"
+	},
+	"Ryan_Ethan_Halim": {
+		"name": "Ryan Ethan Halim",
+		"school": "SMA Kolose De Britto Yogyakarta",
+		"team": "D. I. Yogyakarta"
+	},
+	"bagasangga": {
+		"name": "Bagas Anggareksa Irsyad Dhanisywara",
+		"school": "SMA Kesatuan Bangsa Bantul",
+		"team": "D. I. Yogyakarta"
+	},
+	"Pangeran.mubaraq": {
+		"name": "Muhammad Pangeran Mubaraq",
+		"school": "MAN 1 Kendari",
+		"team": "Sulawesi Tenggara"
+	},
+	"Vetto28": {
+		"name": "Rayyan Aqsha Raditya",
+		"school": "SMAN 5 Surabaya",
+		"team": "Jawa Timur"
+	},
+	"syauqyi": {
+		"name": "M. Syauqyi Habibi",
+		"school": "SMA Al-Abidin BBS Surakarta",
+		"team": "Jawa Tengah"
+	},
+	"32MDT077": {
+		"name": "Mikhael Danise Tumanggor",
+		"school": "SMAN 2 Balige",
+		"team": "Sumatera Utara"
+	},
+	"Miko": {
+		"name": "Michael Widjaja",
+		"school": "SMAK Rajawali Makassar",
+		"team": "Sulawesi Selatan"
+	},
+	"IDika": {
+		"name": "Andika Pratama Putra Nugraha",
+		"school": "SMAN 9 Manado",
+		"team": "Sulawesi Utara"
+	},
+	"MoonLord": {
+		"name": "Ahmad Fauzan Putra",
+		"school": "SMAN 10 Padang",
+		"team": "Sumatera Barat"
+	},
+	"Tyyrexxx": {
+		"name": "Rexton Tandya",
+		"school": "SMAK Yos Sudarso Batam",
+		"team": "Kep. Riau"
+	},
+	"Ghalibi": {
+		"name": "Ghalib Safaraz Harimurti",
+		"school": "SMA Al-Kautsar Bandar Lampung",
+		"team": "Lampung"
+	},
+	"JasmiY26": {
+		"name": "Jasmine Paskah Wang",
+		"school": "SMAK Immanuel Pontianak",
+		"team": "Kalimantan Barat"
+	},
+	"trianandaharahap": {
+		"name": "Triananda Marsya Harahap",
+		"school": "SMAN Titian Teras Jambi",
+		"team": "Jambi"
+	},
+	"D4": {
+		"name": "Yazdi Dzunurrayn Ahmadi",
+		"school": "SMAN 7 Banjarmasin",
+		"team": "Kalimantan Selatan"
+	},
+	"Yazid_H": {
+		"name": "Yazid Aqila Haikal",
+		"school": "MAN 2 Mataram",
+		"team": "Nusa Tenggara Barat"
+	},
+	"Priyz": {
+		"name": "Priyanggara Zuhaynanda Zavana",
+		"school": "SMA Islam Al-Azhar Mandiri Palu",
+		"team": "Sulawesi Tengah"
+	},
+	"Viole": {
+		"name": "Muhammad Qhoirul",
+		"school": "SMAN 2 Sampit",
+		"team": "Kalimantan Tengah"
+	},
+	"splaypancake": {
+		"name": "Ahmad Dzaky",
+		"school": "SMAN 3 Polewali",
+		"team": "Sulawesi Barat"
+	},
+	"JupiterJJ": {
+		"name": "Sitti Aisyah",
+		"school": "MAN Insan Cendekia Sorong",
+		"team": "Papua Barat Daya"
+	},
+	"inyh": {
+		"name": "Nurul Inayah",
+		"school": "SMAN 1 Mimika",
+		"team": "Papua Tengah"
+	},
+	"Rayhanrizqy": {
+		"name": "Rayhan Rizky Ramadhan",
+		"school": "SMAN 1 Tanjung Selor",
+		"team": "Kalimantan Utara"
+	},
+	"Joel_MW": {
+		"name": "Joel Moreno Wirawan",
+		"school": "Sekolah Indonesia Kuala Lumpur Tingkat SMA",
+		"team": "Luar Negeri"
+	},
+	"putri.izzatullah": {
+		"name": "Putri Izzatullah Khairunnisa",
+		"school": "MAN Insan Cendekia Halmahera Barat",
+		"team": "Maluku Utara"
+	},
+	"Ntha": {
+		"name": "Nathalia Dwiyanti Talnoni",
+		"school": "SMAN 4 Kupang",
+		"team": "Nusa Tenggara Timur"
+	},
+	"23042514000118u": {
+		"name": "Mishbah Zaim",
+		"school": "SMAN Waren",
+		"team": "Papua"
+	},
+	"habib_rizqi": {
+		"name": "Habib Firjatulah Rizqi",
+		"school": "MAN Fakfak",
+		"team": "Papua Barat"
+	},
+	"adamnooriman": {
+		"name": "Adam Nooriman",
+		"school": "SMAN 3 Merauke",
+		"team": "Papua Selatan"
+	}
+}
